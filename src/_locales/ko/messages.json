@@ -1,0 +1,462 @@
+{
+	"About": {
+		"message": "정보"
+	},
+	"All_items": {
+		"message": "모든 아이템"
+	},
+	"Auto_select": {
+		"message": "자동 선택"
+	},
+	"Changelog": {
+		"message": "변경사항"
+	},
+	"Close": {
+		"message": "닫기"
+	},
+	"Contribute": {
+		"message": "기여"
+	},
+	"Contributors": {
+		"message": "기여자"
+	},
+	"Donate_paypal": {
+		"message": "페이팔로 기부"
+	},
+	"Favorites": {
+		"message": "즐겨 찾기"
+	},
+	"Language": {
+		"message": "언어"
+	},
+	"Options": {
+		"message": "옵션"
+	},
+	"Reset": {
+		"message": "다시 놓기"
+	},
+	"Save": {
+		"message": "저장"
+	},
+	"Separator": {
+		"message": "구분 기호"
+	},
+	"Source_code": {
+		"message": "소스 코드"
+	},
+	"Thanks": {
+		"message": "감사"
+	},
+	"Translation": {
+		"message": "번역"
+	},
+	"about_about": {
+		"message": "정보"
+	},
+	"about_about_credits": {
+		"message": "타사 크레딧"
+	},
+	"about_about_eula": {
+		"message": "최종 사용자 라이센스 계약서"
+	},
+	"about_about_privacy": {
+		"message": "개인 정보 정책"
+	},
+	"about_about_thanks": {
+		"message": "감사"
+	},
+	"about_accessibility": {
+		"message": "Accessibility"
+	},
+	"about_activity": {
+		"message": "탭"
+	},
+	"about_appcache_internals": {
+		"message": "Application Cache"
+	},
+	"about_apps": {
+		"message": "앱"
+	},
+	"about_badcastcrash": {
+		"message": "Bad cast crash"
+	},
+	"about_blob_internals": {
+		"message": "Blob Storage Internals"
+	},
+	"about_bookmarks": {
+		"message": "즐겨찾기"
+	},
+	"about_browserjs": {
+		"message": "Browser.js"
+	},
+	"about_cache": {
+		"message": "Cache"
+	},
+	"about_chrome": {
+		"message": "정보"
+	},
+	"about_chrome_urls": {
+		"message": "Chrome URLs"
+	},
+	"about_components": {
+		"message": "구성요소"
+	},
+	"about_conflicts": {
+		"message": "로드된 모듈"
+	},
+	"about_copresence": {
+		"message": "Copresence 정보"
+	},
+	"about_crash": {
+		"message": "Crash"
+	},
+	"about_crashdump": {
+		"message": "Crash dump"
+	},
+	"about_crashes": {
+		"message": "다운"
+	},
+	"about_credits": {
+		"message": "타사 크레딧"
+	},
+	"about_device_log": {
+		"message": "기기 로그"
+	},
+	"about_devices": {
+		"message": "기기"
+	},
+	"about_discards": {
+		"message": "Discarded Tabs"
+	},
+	"about_dns": {
+		"message": "About DNS"
+	},
+	"about_downloads": {
+		"message": "다운로드"
+	},
+	"about_extensions": {
+		"message": "확장 기능"
+	},
+	"about_flags": {
+		"message": "실험"
+	},
+	"about_flash": {
+		"message": "플래시 정보"
+	},
+	"about_gcm_internals": {
+		"message": "GCM Internals"
+	},
+	"about_gpu": {
+		"message": "GPU Summary"
+	},
+	"about_gpuclean": {
+		"message": "GPU clean"
+	},
+	"about_gpucrash": {
+		"message": "GPU crash"
+	},
+	"about_gpuhang": {
+		"message": "GPU hang"
+	},
+	"about_group": {
+		"message": "그룹"
+	},
+	"about_hang": {
+		"message": "Hang"
+	},
+	"about_help": {
+		"message": "정보"
+	},
+	"about_histograms": {
+		"message": "Histograms"
+	},
+	"about_history": {
+		"message": "방문 기록"
+	},
+	"about_indexeddb_internals": {
+		"message": "IndexedDB"
+	},
+	"about_inspect": {
+		"message": "Inspect with Developer Tools"
+	},
+	"about_invalidations": {
+		"message": "Invalidations"
+	},
+	"about_kill": {
+		"message": "강제 종료"
+	},
+	"about_local_state": {
+		"message": "Local State Debug Page"
+	},
+	"about_media_internals": {
+		"message": "Media internals"
+	},
+	"about_memory": {
+		"message": "About memory"
+	},
+	"about_memory_internals": {
+		"message": "Memory Internals"
+	},
+	"about_more": {
+		"message": "기타 항목"
+	},
+	"about_nacl": {
+		"message": "About NaCl"
+	},
+	"about_net_internals": {
+		"message": "Net internals"
+	},
+	"about_network_errors": {
+		"message": "네트워크 오류"
+	},
+	"about_newtab": {
+		"message": "새 탭"
+	},
+	"about_omnibox": {
+		"message": "Omnibox Debug Page"
+	},
+	"about_password_manager_internals": {
+		"message": "Password Manager Internals"
+	},
+	"about_plugins": {
+		"message": "플러그인"
+	},
+	"about_policy": {
+		"message": "정책"
+	},
+	"about_ppapiflashcrash": {
+		"message": "PPAPI Flash crash"
+	},
+	"about_ppapiflashhang": {
+		"message": "PPAPI Flash hang"
+	},
+	"about_predictors": {
+		"message": "Predictors"
+	},
+	"about_print": {
+		"message": "인쇄"
+	},
+	"about_profiler": {
+		"message": "Profiler"
+	},
+	"about_quit": {
+		"message": "종료"
+	},
+	"about_quota_internals": {
+		"message": "Quota Internals"
+	},
+	"about_remote_debug": {
+		"message": "Remote Debugging"
+	},
+	"about_restart": {
+		"message": "다시 시작"
+	},
+	"about_serviceworker_internals": {
+		"message": "ServiceWorker"
+	},
+	"about_settings": {
+		"message": "설정"
+	},
+	"about_settings_acceptlanguages": {
+		"message": "웹 페이지를 표시할 때 우선적으로 사용될 언어"
+	},
+	"about_settings_addressbar": {
+		"message": "주소 표시 줄 설정"
+	},
+	"about_settings_all": {
+		"message": "모든 설정을 표시"
+	},
+	"about_settings_appearance": {
+		"message": "모양 설정"
+	},
+	"about_settings_autofill": {
+		"message": "자동완성 설정"
+	},
+	"about_settings_bookmarks": {
+		"message": "즐겨 찾기 설정"
+	},
+	"about_settings_clearbrowserdata": {
+		"message": "인터넷 사용 기록 삭제"
+	},
+	"about_settings_configurecommands": {
+		"message": "키보드 단축키"
+	},
+	"about_settings_content": {
+		"message": "콘텐츠 설정"
+	},
+	"about_settings_contentexceptions_cookies": {
+		"message": "쿠키 및 사이트 데이터 예외"
+	},
+	"about_settings_contentexceptions_fullscreen": {
+		"message": "전체 화면 예외"
+	},
+	"about_settings_contentexceptions_images": {
+		"message": "이미지 예외"
+	},
+	"about_settings_contentexceptions_javascript": {
+		"message": "자바스크립트 예외"
+	},
+	"about_settings_contentexceptions_keygen": {
+		"message": "키 생성 예외"
+	},
+	"about_settings_contentexceptions_location": {
+		"message": "위치 정보 예외"
+	},
+	"about_settings_contentexceptions_media_stream": {
+		"message": "Media exceptions"
+	},
+	"about_settings_contentexceptions_media_stream_camera": {
+		"message": "카메라 예외"
+	},
+	"about_settings_contentexceptions_media_stream_mic": {
+		"message": "마이크 예외"
+	},
+	"about_settings_contentexceptions_midi_sysex": {
+		"message": "MIDI 기기 전체 제어"
+	},
+	"about_settings_contentexceptions_mouselock": {
+		"message": "마우스 커서 예외"
+	},
+	"about_settings_contentexceptions_multiple_automatic_downloads": {
+		"message": "자동 다운로드"
+	},
+	"about_settings_contentexceptions_notifications": {
+		"message": "알림 예외"
+	},
+	"about_settings_contentexceptions_plugins": {
+		"message": "플러그인 예외"
+	},
+	"about_settings_contentexceptions_popups": {
+		"message": "팝업 예외"
+	},
+	"about_settings_contentexceptions_ppapi_broker": {
+		"message": "샌드박스 처리되지 않은 플러그인 액세스 예외"
+	},
+	"about_settings_contentexceptions_usb_devices": {
+		"message": "USB 기기"
+	},
+	"about_settings_contentexceptions_zoomlevels": {
+		"message": "확대/축소 수준"
+	},
+	"about_settings_cookies": {
+		"message": "쿠키 및 사이트 데이터"
+	},
+	"about_settings_createprofile": {
+		"message": "사용자 추가"
+	},
+	"about_settings_downloads": {
+		"message": "다운로드 설정"
+	},
+	"about_settings_editdictionary": {
+		"message": "사용자정의 맞춤법 사전"
+	},
+	"about_settings_fonts": {
+		"message": "글꼴 및 인코딩"
+	},
+	"about_settings_handlers": {
+		"message": "프로토콜 핸들러"
+	},
+	"about_settings_importdata": {
+		"message": "북마크 및 설정 가져오기"
+	},
+	"about_settings_keyboard": {
+		"message": "키보드 설정"
+	},
+	"about_settings_languages": {
+		"message": "언어"
+	},
+	"about_settings_manageprofile": {
+		"message": "사용자 편집"
+	},
+	"about_settings_mouse": {
+		"message": "마우스 설정"
+	},
+	"about_settings_network": {
+		"message": "네트워크 설정"
+	},
+	"about_settings_panel": {
+		"message": "패널 설정"
+	},
+	"about_settings_passwords": {
+		"message": "비밀번호"
+	},
+	"about_settings_privacy": {
+		"message": "개인 정보 설정"
+	},
+	"about_settings_qc": {
+		"message": "빠른 명령 설정"
+	},
+	"about_settings_resetprofilesettings": {
+		"message": "설정 초기화"
+	},
+	"about_settings_search": {
+		"message": "검색 설정"
+	},
+	"about_settings_searchengines": {
+		"message": "검색엔진"
+	},
+	"about_settings_start_page": {
+		"message": "페이지 설정 시작"
+	},
+	"about_settings_startup": {
+		"message": "시작 페이지"
+	},
+	"about_settings_tabs": {
+		"message": "탭 설정"
+	},
+	"about_settings_webpages": {
+		"message": "웹 페이지 설정"
+	},
+	"about_shorthang": {
+		"message": "Short hang"
+	},
+	"about_signin_internals": {
+		"message": "Signin Internals"
+	},
+	"about_suggestions": {
+		"message": "Suggestions"
+	},
+	"about_sync_internals": {
+		"message": "Sync Internals"
+	},
+	"about_system": {
+		"message": "시스템 정보"
+	},
+	"about_terms": {
+		"message": "서비스 약관"
+	},
+	"about_themes": {
+		"message": "테마"
+	},
+	"about_thumbnails": {
+		"message": "TopSites Thumbnails"
+	},
+	"about_tracing": {
+		"message": "Tracing"
+	},
+	"about_translate_internals": {
+		"message": "Translate Internals"
+	},
+	"about_user_actions": {
+		"message": "User Actions Debug Page"
+	},
+	"about_version": {
+		"message": "버전 정보"
+	},
+	"about_view_http_cache": {
+		"message": "View HTTP cache"
+	},
+	"about_webrtc_internals": {
+		"message": "WebRTC Internals"
+	},
+	"about_webrtc_logs": {
+		"message": "WebRTC 로그"
+	},
+	"draganddrop_description": {
+		"message": "끌어서 항목을 편집 하 고 재배열"
+	},
+	"extension_short_description": {
+		"description": "this will be in the chrome web store: must be 132 characters or less",
+		"message": "모든 내부 페이지를 보여줍니다. 예: about:about, about:plugins..."
+	}
+}

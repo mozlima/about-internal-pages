@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About://Internal Pages</title>
+	<meta charset="utf-8">
+	<link rel="shortcut icon" type="image/png" href="images/ip-icon16.png" />
+	<link rel="stylesheet" type="text/css" href="popup.css" />
+	<script type="text/javascript" src="main.js"></script>
+	<script type="text/javascript" src="popup.js"></script>
+</head>
+<body>
+	<div id="container">
+		<div id="header">
+			<div class="logo-text"><h1>...</h1></div>
+			<div class="nav">
+				<a href="#favorites" class="fa" data-lang-title="Favorites">&#xf004;</a><!--
+				--><a href="#all-items" class="fa" data-lang-title="All_items">&#xf141;</a><!--
+				--><a class="flex-spacer"></a><!--
+				--><a href="#options" class="fa" data-lang-title="Options">&#xf013;</a><!--
+				--><a href="#about" class="fa" data-lang-title="About">&#xf129;</a>
+			</div>
+		</div>
+		<div id="content">
+			<form>
+				<div id="favorites" class="tab ip-list"></div>
+				<div id="all-items" class="tab ip-list"></div>
+				<div id="options" class="tab">
+					<div id="ip-tip" style="text-align:center">
+						<div data-lang="draganddrop_description"></div>
+						<div class="fa" style="font-size: 1.2em;">&#xf0a6; &#xf0ec; [ &#xf047;  &#xf014; &#xf040; ]</div>
+					</div>
+					<div class="menu-wrapper">
+						<div id="o-favorites" class="ip-list"></div>
+						<div id="o-all-items" class="ip-list"></div>
+						<div id="o-item-options" class="ondrag-favorites" >
+							<div id="o-item-delete" class="fa" draggable="true" >&#xf014;</div>
+							<div id="o-item-edit" class="fa" draggable="true">&#xf040;</div>
+						</div>
+					</div>
+					<div class="action-buttons">
+						<select id="select-language" name="language" data-lang-title="Language" data-evt-change="language.switch">
+							<option value="auto" data-lang="Auto_select">...</option>
+						</select><!--
+						--><button type="button" class="red fa confirm" data-lang-title="Reset" data-evt-click="form.action|reset">&#xf0e2;</button>
+					</div>
+					<div id="o-item-edit-overlay" data-evt-click="form.action|ip-edit-close">
+						<div>
+							<input type="text" id="o-item-edit-input"/>
+							<button type="button" class="green fa" data-lang-title="Save" data-evt-click="form.action|ip-edit-save">&#xf00c;</button>
+							<button type="button" class="red fa" data-lang-title="Close" data-evt-click="form.action|ip-edit-close">&#xf00d;</button>
+						</div>
+					</div>
+				</div>
+				<div id="about" class="tab" style="padding: 2px;">
+					<a target="_blank" href="https://github.com/mozlima/about-internal-pages/releases" data-lang="Changelog"></a><br>
+					<a target="_blank" href="https://github.com/mozlima/about-internal-pages" data-lang="Source_code"></a><br>
+					<h2 data-lang="Contributors">...</h2>
+					<a target="_blank" href="https://github.com/mozlima/about-internal-pages/graphs/contributors">Github</a>
+					<h2 data-lang="Contribute">...</h2>
+					<span data-lang="Rate_it"></span>: <a target="_blank" href="https://addons.opera.com/extensions/details/about-internal-pages/">Opera add-ons</a><br/>
+					<span data-lang="Source_code"></span>: <a target="_blank" href="https://github.com/mozlima/about-internal-pages">Github</a><br/>
+					<a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKTMZL523YGMU" data-lang="Donate_paypal">Donate</a>
+					<h2 data-lang="Thanks">...</h2>
+					<a target="_blank" href="http://fontawesome.io/">Font Awesome</a>
+					<div style="text-align:center; position: absolute; bottom: 5px; width: 100%;">
+						<p>v<span id="about-version"></span>
+						<a target="_blank" href="http://moisesplima.blogspot.com.br/about-internal-pages">Moises Lima</a>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

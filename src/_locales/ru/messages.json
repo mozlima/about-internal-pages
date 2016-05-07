@@ -1,0 +1,462 @@
+{
+	"About": {
+		"message": "О расширении"
+	},
+	"All_items": {
+		"message": "Все детали"
+	},
+	"Auto_select": {
+		"message": "Автоматический выбор"
+	},
+	"Changelog": {
+		"message": "Список изменений"
+	},
+	"Close": {
+		"message": "Закрыть"
+	},
+	"Contribute": {
+		"message": "Способствовать"
+	},
+	"Contributors": {
+		"message": "Участники"
+	},
+	"Donate_paypal": {
+		"message": "Помогайте с помощью PayPal"
+	},
+	"Favorites": {
+		"message": "Избранное"
+	},
+	"Language": {
+		"message": "язык"
+	},
+	"Options": {
+		"message": "настройки"
+	},
+	"Reset": {
+		"message": "Сброс"
+	},
+	"Save": {
+		"message": "Сохранить"
+	},
+	"Separator": {
+		"message": "Pазделитель"
+	},
+	"Source_code": {
+		"message": "Исходный код"
+	},
+	"Thanks": {
+		"message": "Спасибо"
+	},
+	"Translation": {
+		"message": "Перевод"
+	},
+	"about_about": {
+		"message": "О программе"
+	},
+	"about_about_credits": {
+		"message": "Сведения о третьих сторонах"
+	},
+	"about_about_eula": {
+		"message": "Лицензионное соглашение с конечным пользователем"
+	},
+	"about_about_privacy": {
+		"message": "Политика конфиденциальности"
+	},
+	"about_about_thanks": {
+		"message": "Спасибо"
+	},
+	"about_accessibility": {
+		"message": "Accessibility"
+	},
+	"about_activity": {
+		"message": "Вкладки"
+	},
+	"about_appcache_internals": {
+		"message": "Application Cache"
+	},
+	"about_apps": {
+		"message": "Сервисы"
+	},
+	"about_badcastcrash": {
+		"message": "Bad cast crash"
+	},
+	"about_blob_internals": {
+		"message": "Blob Storage Internals"
+	},
+	"about_bookmarks": {
+		"message": "Закладки"
+	},
+	"about_browserjs": {
+		"message": "Browser.js"
+	},
+	"about_cache": {
+		"message": "Cache"
+	},
+	"about_chrome": {
+		"message": "О программе"
+	},
+	"about_chrome_urls": {
+		"message": "Chrome URLs"
+	},
+	"about_components": {
+		"message": "Компоненты"
+	},
+	"about_conflicts": {
+		"message": "Модули, загруженные"
+	},
+	"about_copresence": {
+		"message": "Copresence Info"
+	},
+	"about_crash": {
+		"message": "Crash"
+	},
+	"about_crashdump": {
+		"message": "Crash dump"
+	},
+	"about_crashes": {
+		"message": "Завершение работы программы"
+	},
+	"about_credits": {
+		"message": "Сведения о третьих сторонах"
+	},
+	"about_device_log": {
+		"message": "Журнал устройства"
+	},
+	"about_devices": {
+		"message": "Устройства"
+	},
+	"about_discards": {
+		"message": "Discarded Tabs"
+	},
+	"about_dns": {
+		"message": "About DNS"
+	},
+	"about_downloads": {
+		"message": "Загрузки"
+	},
+	"about_extensions": {
+		"message": "Расширения"
+	},
+	"about_flags": {
+		"message": "Экспериментальные функции"
+	},
+	"about_flash": {
+		"message": "О платформе Flash"
+	},
+	"about_gcm_internals": {
+		"message": "GCM Internals"
+	},
+	"about_gpu": {
+		"message": "GPU Summary"
+	},
+	"about_gpuclean": {
+		"message": "GPU clean"
+	},
+	"about_gpucrash": {
+		"message": "GPU crash"
+	},
+	"about_gpuhang": {
+		"message": "GPU hang"
+	},
+	"about_group": {
+		"message": "Группа"
+	},
+	"about_hang": {
+		"message": "Hang"
+	},
+	"about_help": {
+		"message": "О программе"
+	},
+	"about_histograms": {
+		"message": "Histograms"
+	},
+	"about_history": {
+		"message": "История"
+	},
+	"about_indexeddb_internals": {
+		"message": "IndexedDB"
+	},
+	"about_inspect": {
+		"message": "Инструменты разработчика"
+	},
+	"about_invalidations": {
+		"message": "Invalidations"
+	},
+	"about_kill": {
+		"message": "Kill"
+	},
+	"about_local_state": {
+		"message": "Local State Debug Page"
+	},
+	"about_media_internals": {
+		"message": "Media internals"
+	},
+	"about_memory": {
+		"message": "About memory"
+	},
+	"about_memory_internals": {
+		"message": "Memory Internals"
+	},
+	"about_more": {
+		"message": "Другие элементы"
+	},
+	"about_nacl": {
+		"message": "About NaCl"
+	},
+	"about_net_internals": {
+		"message": "Net internals"
+	},
+	"about_network_errors": {
+		"message": "Ошибки сети"
+	},
+	"about_newtab": {
+		"message": "Новая вкладка"
+	},
+	"about_omnibox": {
+		"message": "Omnibox Debug Page"
+	},
+	"about_password_manager_internals": {
+		"message": "Password Manager Internals"
+	},
+	"about_plugins": {
+		"message": "Плагины"
+	},
+	"about_policy": {
+		"message": "Правила"
+	},
+	"about_ppapiflashcrash": {
+		"message": "PPAPI Flash crash"
+	},
+	"about_ppapiflashhang": {
+		"message": "PPAPI Flash hang"
+	},
+	"about_predictors": {
+		"message": "Predictors"
+	},
+	"about_print": {
+		"message": "Печать"
+	},
+	"about_profiler": {
+		"message": "Profiler"
+	},
+	"about_quit": {
+		"message": "Выход"
+	},
+	"about_quota_internals": {
+		"message": "Quota Internals"
+	},
+	"about_remote_debug": {
+		"message": "Remote Debugging"
+	},
+	"about_restart": {
+		"message": "Перезапуска "
+	},
+	"about_serviceworker_internals": {
+		"message": "ServiceWorker"
+	},
+	"about_settings": {
+		"message": "Настройки"
+	},
+	"about_settings_acceptlanguages": {
+		"message": "Предпочитаемые языки для страниц"
+	},
+	"about_settings_addressbar": {
+		"message": "Настройки адресной строки"
+	},
+	"about_settings_all": {
+		"message": "Показать все параметры"
+	},
+	"about_settings_appearance": {
+		"message": "Настройки внешнего вида"
+	},
+	"about_settings_autofill": {
+		"message": "Настройки автозаполнения"
+	},
+	"about_settings_bookmarks": {
+		"message": "Настройки закладки"
+	},
+	"about_settings_clearbrowserdata": {
+		"message": "Очистить историю"
+	},
+	"about_settings_configurecommands": {
+		"message": "Сочетания клавиш"
+	},
+	"about_settings_content": {
+		"message": "Настройки контента"
+	},
+	"about_settings_contentexceptions_cookies": {
+		"message": "Исключения для файлов cookie и данных сайтов"
+	},
+	"about_settings_contentexceptions_fullscreen": {
+		"message": "Исключения для полноэкранного режима"
+	},
+	"about_settings_contentexceptions_images": {
+		"message": "Исключения для изображений"
+	},
+	"about_settings_contentexceptions_javascript": {
+		"message": "Исключения для JavaScript"
+	},
+	"about_settings_contentexceptions_keygen": {
+		"message": "Исключения при создании ключей"
+	},
+	"about_settings_contentexceptions_location": {
+		"message": "Передача геоданных – исключения"
+	},
+	"about_settings_contentexceptions_media_stream": {
+		"message": "Media exceptions"
+	},
+	"about_settings_contentexceptions_media_stream_camera": {
+		"message": "Исключения для камеры"
+	},
+	"about_settings_contentexceptions_media_stream_mic": {
+		"message": "Исключения для микрофона"
+	},
+	"about_settings_contentexceptions_midi_sysex": {
+		"message": "Полный контроль над MIDI-устройствами"
+	},
+	"about_settings_contentexceptions_mouselock": {
+		"message": "Исключения для курсора"
+	},
+	"about_settings_contentexceptions_multiple_automatic_downloads": {
+		"message": "Автоматическая загрузка"
+	},
+	"about_settings_contentexceptions_notifications": {
+		"message": "Исключения для оповещений"
+	},
+	"about_settings_contentexceptions_plugins": {
+		"message": "Исключения для плагинов"
+	},
+	"about_settings_contentexceptions_popups": {
+		"message": "Исключения для всплывающих окон"
+	},
+	"about_settings_contentexceptions_ppapi_broker": {
+		"message": "Исключения доступа для плагинов вне тестовой среды"
+	},
+	"about_settings_contentexceptions_usb_devices": {
+		"message": "USB-устройства"
+	},
+	"about_settings_contentexceptions_zoomlevels": {
+		"message": "Масштабирование"
+	},
+	"about_settings_cookies": {
+		"message": "Файлы сookie и данные сайтов"
+	},
+	"about_settings_createprofile": {
+		"message": "Добавить пользователя"
+	},
+	"about_settings_downloads": {
+		"message": "Hастройки загрузки"
+	},
+	"about_settings_editdictionary": {
+		"message": "Пользовательский словарь для проверки правописания"
+	},
+	"about_settings_fonts": {
+		"message": "Шрифты и кодировка"
+	},
+	"about_settings_handlers": {
+		"message": "Обработчики протоколов"
+	},
+	"about_settings_importdata": {
+		"message": "Импорт закладок и настроек"
+	},
+	"about_settings_keyboard": {
+		"message": "Hастройки клавиатуры"
+	},
+	"about_settings_languages": {
+		"message": "Языки"
+	},
+	"about_settings_manageprofile": {
+		"message": "Редактировать профиль"
+	},
+	"about_settings_mouse": {
+		"message": "Hастройки мыши"
+	},
+	"about_settings_network": {
+		"message": "Настройки сети"
+	},
+	"about_settings_panel": {
+		"message": "Настройки Боковая панель"
+	},
+	"about_settings_passwords": {
+		"message": "Пароли"
+	},
+	"about_settings_privacy": {
+		"message": "Настройки Безопасность"
+	},
+	"about_settings_qc": {
+		"message": "Настройки Быстрые команды"
+	},
+	"about_settings_resetprofilesettings": {
+		"message": "Сброс настроек"
+	},
+	"about_settings_search": {
+		"message": "Настройки Поиск"
+	},
+	"about_settings_searchengines": {
+		"message": "Поисковые системы"
+	},
+	"about_settings_start_page": {
+		"message": "Настройки запуска"
+	},
+	"about_settings_startup": {
+		"message": "Страницы при запуске"
+	},
+	"about_settings_tabs": {
+		"message": "Настройки Вкладки"
+	},
+	"about_settings_webpages": {
+		"message": "Настройки Веб-страницы"
+	},
+	"about_shorthang": {
+		"message": "Short hang"
+	},
+	"about_signin_internals": {
+		"message": "Signin Internals"
+	},
+	"about_suggestions": {
+		"message": "Suggestions"
+	},
+	"about_sync_internals": {
+		"message": "Sync Internals"
+	},
+	"about_system": {
+		"message": "О системе"
+	},
+	"about_terms": {
+		"message": "Условия предоставления услуг"
+	},
+	"about_themes": {
+		"message": "Темы оформления"
+	},
+	"about_thumbnails": {
+		"message": "TopSites Thumbnails"
+	},
+	"about_tracing": {
+		"message": "Tracing"
+	},
+	"about_translate_internals": {
+		"message": "Translate Internals"
+	},
+	"about_user_actions": {
+		"message": "User Actions Debug Page"
+	},
+	"about_version": {
+		"message": "Сведения о версии"
+	},
+	"about_view_http_cache": {
+		"message": "View HTTP cache"
+	},
+	"about_webrtc_internals": {
+		"message": "WebRTC Internals"
+	},
+	"about_webrtc_logs": {
+		"message": "Журналы WebRTC"
+	},
+	"draganddrop_description": {
+		"message": "Перетащите и падение изменить/редактировать элементы"
+	},
+	"extension_short_description": {
+		"description": "this will be in the chrome web store: must be 132 characters or less",
+		"message": "Показывает меню со всех внутренних страниц. Пример: about:about, about:plugins..."
+	}
+}

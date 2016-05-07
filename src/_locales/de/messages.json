@@ -1,0 +1,462 @@
+{
+	"About": {
+		"message": "Über"
+	},
+	"about_about": {
+		"message": "Über"
+	},
+	"about_about_credits": {
+		"message": "Drittanbieter-Liste"
+	},
+	"about_about_eula": {
+		"message": "Endbenutzer-Lizenzvertrag"
+	},
+	"about_about_privacy": {
+		"message": "Datenschutzerklärung"
+	},
+	"about_about_thanks": {
+		"message": "Vielen Dank"
+	},
+	"about_accessibility": {
+		"message": "Accessibility"
+	},
+	"about_activity": {
+		"message": "Tabs"
+	},
+	"about_appcache_internals": {
+		"message": "Apps Cache"
+	},
+	"about_apps": {
+		"message": "Apps"
+	},
+	"about_badcastcrash": {
+		"message": "Bad cast crash"
+	},
+	"about_blob_internals": {
+		"message": "Blob Storage Internals"
+	},
+	"about_bookmarks": {
+		"message": "Lesezeichen"
+	},
+	"about_browserjs": {
+		"message": "Browser.js"
+	},
+	"about_cache": {
+		"message": "Cache"
+	},
+	"about_chrome": {
+		"message": "Über"
+	},
+	"about_chrome_urls": {
+		"message": "Chrome URLs"
+	},
+	"about_components": {
+		"message": "Komponenten"
+	},
+	"about_conflicts": {
+		"message": "Module geladen"
+	},
+	"about_copresence": {
+		"message": "Copresence-Infos"
+	},
+	"about_crash": {
+		"message": "Crash"
+	},
+	"about_crashdump": {
+		"message": "Crash dump"
+	},
+	"about_crashes": {
+		"message": "Abstürze"
+	},
+	"about_credits": {
+		"message": "Credits"
+	},
+	"about_device_log": {
+		"message": "Geräteprotokoll"
+	},
+	"about_devices": {
+		"message": "Geräte"
+	},
+	"about_discards": {
+		"message": "Discarded Tabs"
+	},
+	"about_dns": {
+		"message": "Über DNS"
+	},
+	"about_downloads": {
+		"message": "Downloads"
+	},
+	"about_extensions": {
+		"message": "Erweiterungen"
+	},
+	"about_flags": {
+		"message": "Experimente"
+	},
+	"about_flash": {
+		"message": "Über Flash"
+	},
+	"about_gcm_internals": {
+		"message": "GCM Internals"
+	},
+	"about_gpu": {
+		"message": "GPU-Übersicht"
+	},
+	"about_gpuclean": {
+		"message": "GPU clean"
+	},
+	"about_gpucrash": {
+		"message": "GPU crash"
+	},
+	"about_gpuhang": {
+		"message": "GPU hang"
+	},
+	"about_group": {
+		"message": "Gruppieren"
+	},
+	"about_hang": {
+		"message": "Hang"
+	},
+	"about_help": {
+		"message": "Über"
+	},
+	"about_histograms": {
+		"message": "Histograms"
+	},
+	"about_history": {
+		"message": "Verlauf"
+	},
+	"about_indexeddb_internals": {
+		"message": "IndexedDB"
+	},
+	"about_inspect": {
+		"message": "Inspect with Developer Tools"
+	},
+	"about_invalidations": {
+		"message": "Invalidations"
+	},
+	"about_kill": {
+		"message": "Sofort beenden"
+	},
+	"about_local_state": {
+		"message": "Local State Debug Page"
+	},
+	"about_media_internals": {
+		"message": "Media Internals"
+	},
+	"about_memory": {
+		"message": "Über Speicher"
+	},
+	"about_memory_internals": {
+		"message": "Memory Internals"
+	},
+	"about_more": {
+		"message": "Weitere"
+	},
+	"about_nacl": {
+		"message": "Über NaCl"
+	},
+	"about_net_internals": {
+		"message": "Net Internals"
+	},
+	"about_network_errors": {
+		"message": "Netzwerkfehler"
+	},
+	"about_newtab": {
+		"message": "Neuer Tab"
+	},
+	"about_omnibox": {
+		"message": "Omnibox Debug Page"
+	},
+	"about_password_manager_internals": {
+		"message": "Password Manager Internals"
+	},
+	"about_plugins": {
+		"message": "Plug-ins"
+	},
+	"about_policy": {
+		"message": "Richtlinien"
+	},
+	"about_ppapiflashcrash": {
+		"message": "PPAPI Flash crash"
+	},
+	"about_ppapiflashhang": {
+		"message": "PPAPI Flash hang"
+	},
+	"about_predictors": {
+		"message": "Predictors"
+	},
+	"about_print": {
+		"message": "Drucken"
+	},
+	"about_profiler": {
+		"message": "Profiler"
+	},
+	"about_quit": {
+		"message": "Verlassen"
+	},
+	"about_quota_internals": {
+		"message": "Quota Internals"
+	},
+	"about_remote_debug": {
+		"message": "Remote Debugging"
+	},
+	"about_restart": {
+		"message": "Neustart"
+	},
+	"about_serviceworker_internals": {
+		"message": "ServiceWorker"
+	},
+	"about_settings": {
+		"message": "Einstellungen"
+	},
+	"about_settings_acceptlanguages": {
+		"message": "Bevorzugte Sprachen für Webseiten"
+	},
+	"about_settings_addressbar": {
+		"message": "Adressleiste Einstellungen"
+	},
+	"about_settings_all": {
+		"message": "Alle Einstellungen anzeigen"
+	},
+	"about_settings_appearance": {
+		"message": "Darstellungseinstellungen"
+	},
+	"about_settings_autofill": {
+		"message": "AutoFill-Einstellungen"
+	},
+	"about_settings_bookmarks": {
+		"message": "Lesezeichen-Einstellungen"
+	},
+	"about_settings_clearbrowserdata": {
+		"message": "Browserdaten löschen"
+	},
+	"about_settings_configurecommands": {
+		"message": "Tastenkombinationen"
+	},
+	"about_settings_content": {
+		"message": "Inhaltseinstellungen"
+	},
+	"about_settings_contentexceptions_cookies": {
+		"message": "Ausnahmen für Cookies und Websitedaten"
+	},
+	"about_settings_contentexceptions_fullscreen": {
+		"message": "Vollbild-Ausnahmen"
+	},
+	"about_settings_contentexceptions_images": {
+		"message": "Ausnahmen für Bilder"
+	},
+	"about_settings_contentexceptions_javascript": {
+		"message": "Ausnahmen für JavaScript"
+	},
+	"about_settings_contentexceptions_keygen": {
+		"message": "Ausnahmen bei der Schlüsselgenerierung"
+	},
+	"about_settings_contentexceptions_location": {
+		"message": "Ausnahmen für Geostandorte"
+	},
+	"about_settings_contentexceptions_media_stream": {
+		"message": "Ausnahmen für Medien"
+	},
+	"about_settings_contentexceptions_media_stream_camera": {
+		"message": "Kameraausnahmen"
+	},
+	"about_settings_contentexceptions_media_stream_mic": {
+		"message": "Mikrofonausnahmen"
+	},
+	"about_settings_contentexceptions_midi_sysex": {
+		"message": "Volle MIDI-Kontrolle"
+	},
+	"about_settings_contentexceptions_mouselock": {
+		"message": "Ausnahmen für Mauszeiger"
+	},
+	"about_settings_contentexceptions_multiple_automatic_downloads": {
+		"message": "Automatische Downloads"
+	},
+	"about_settings_contentexceptions_notifications": {
+		"message": "Ausnahmen für Benachrichtigungen"
+	},
+	"about_settings_contentexceptions_plugins": {
+		"message": "Ausnahmen für Plug-ins"
+	},
+	"about_settings_contentexceptions_popups": {
+		"message": "Ausnahmen für Pop-ups"
+	},
+	"about_settings_contentexceptions_ppapi_broker": {
+		"message": "Ausnahmen für Plug-in-Zugriff ohne Sandbox"
+	},
+	"about_settings_contentexceptions_usb_devices": {
+		"message": "USB-Geräte"
+	},
+	"about_settings_contentexceptions_zoomlevels": {
+		"message": "Zoomfaktoren"
+	},
+	"about_settings_cookies": {
+		"message": "Cookies und Websitedaten"
+	},
+	"about_settings_createprofile": {
+		"message": "Person hinzufügen"
+	},
+	"about_settings_downloads": {
+		"message": "Downloads settings"
+	},
+	"about_settings_editdictionary": {
+		"message": "Benutzerdefiniertes Wörterbuch zur Rechtschreibprüfung"
+	},
+	"about_settings_fonts": {
+		"message": "Schrift und Codierung"
+	},
+	"about_settings_handlers": {
+		"message": "Protokollhandler"
+	},
+	"about_settings_importdata": {
+		"message": "Lesezeichen und Einstellungen importieren"
+	},
+	"about_settings_keyboard": {
+		"message": "Tastatureinstellungen"
+	},
+	"about_settings_languages": {
+		"message": "Sprachen"
+	},
+	"about_settings_manageprofile": {
+		"message": "Person bearbeiten"
+	},
+	"about_settings_mouse": {
+		"message": "Mauseinstellungen"
+	},
+	"about_settings_network": {
+		"message": "Netzwerkeinstellungen"
+	},
+	"about_settings_panel": {
+		"message": "Paneel-Einstellungen"
+	},
+	"about_settings_passwords": {
+		"message": "Passwörter"
+	},
+	"about_settings_privacy": {
+		"message": "Datenschutzeinstellungen"
+	},
+	"about_settings_qc": {
+		"message": "Kurzbefehle Einstellungen"
+	},
+	"about_settings_resetprofilesettings": {
+		"message": "Einstellungen zurücksetzen"
+	},
+	"about_settings_search": {
+		"message": "Suche"
+	},
+	"about_settings_searchengines": {
+		"message": "Suchmaschinen"
+	},
+	"about_settings_start_page": {
+		"message": "Schnellwahlseite-Einstellungen"
+	},
+	"about_settings_startup": {
+		"message": "Startseiten"
+	},
+	"about_settings_tabs": {
+		"message": "Tabs Einstellungen"
+	},
+	"about_settings_webpages": {
+		"message": "WebSeiten-Einstellungen"
+	},
+	"about_shorthang": {
+		"message": "Short hang"
+	},
+	"about_signin_internals": {
+		"message": "Signin Internals"
+	},
+	"about_suggestions": {
+		"message": "Suggestions"
+	},
+	"about_sync_internals": {
+		"message": "Sync Internals"
+	},
+	"about_system": {
+		"message": "Systeminformationen"
+	},
+	"about_terms": {
+		"message": "Nutzungsbedingungen"
+	},
+	"about_themes": {
+		"message": "Themen"
+	},
+	"about_thumbnails": {
+		"message": "TopSites Thumbnails"
+	},
+	"about_tracing": {
+		"message": "Tracing"
+	},
+	"about_translate_internals": {
+		"message": "Translate Internals"
+	},
+	"about_user_actions": {
+		"message": "User Actions Debug Page"
+	},
+	"about_version": {
+		"message": "Informationen zur Version"
+	},
+	"about_view_http_cache": {
+		"message": "View HTTP cache"
+	},
+	"about_webrtc_internals": {
+		"message": "WebRTC Internals"
+	},
+	"about_webrtc_logs": {
+		"message": "WebRTC-Protokolle"
+	},
+	"All_items": {
+		"message": "Alle"
+	},
+	"Auto_select": {
+		"message": "Automatische Auswahl"
+	},
+	"Changelog": {
+		"message": "Änderungsprotokoll"
+	},
+	"Close": {
+		"message": "Schließen"
+	},
+	"Contribute": {
+		"message": "Beitragen"
+	},
+	"Contributors": {
+		"message": "Mitwirkende"
+	},
+	"Donate_paypal": {
+		"message": "Spenden mit PayPal"
+	},
+	"draganddrop_description": {
+		"message": "Drag & Drop, um Elemente zu bearbeiten"
+	},
+	"extension_short_description": {
+		"description": "this will be in the chrome web store: must be 132 characters or less",
+		"message": "Zeigt ein Menü mit allen internen Seiten. Beispiel: about:about, about:plugins ..."
+	},
+	"Favorites": {
+		"message": "Favorieten"
+	},
+	"Language": {
+		"message": "Sprache"
+	},
+	"Options": {
+		"message": "Optionen"
+	},
+	"Reset": {
+		"message": "Zurücksetzen"
+	},
+	"Save": {
+		"message": "Speichern"
+	},
+	"Separator": {
+		"message": "Separator"
+	},
+	"Source_code": {
+		"message": "Quellcode"
+	},
+	"Thanks": {
+		"message": "Vielen Dank"
+	},
+	"Translation": {
+		"message": "Übersetzung"
+	}
+}

@@ -1,0 +1,462 @@
+{
+	"About": {
+		"message": "Sobre"
+	},
+	"All_items": {
+		"message": "Todos os items"
+	},
+	"Auto_select": {
+		"message": "Auto selecionar"
+	},
+	"Changelog": {
+		"message": "Registro de alterações"
+	},
+	"Close": {
+		"message": "Fechar"
+	},
+	"Contribute": {
+		"message": "Contribuir"
+	},
+	"Contributors": {
+		"message": "Contribuidores"
+	},
+	"Donate_paypal": {
+		"message": "Doe com PayPal"
+	},
+	"Favorites": {
+		"message": "Favoritos"
+	},
+	"Language": {
+		"message": "Idioma"
+	},
+	"Options": {
+		"message": "Opções"
+	},
+	"Reset": {
+		"message": "Redefinir"
+	},
+	"Save": {
+		"message": "Salvar"
+	},
+	"Separator": {
+		"message": "Separador"
+	},
+	"Source_code": {
+		"message": "Código fonte"
+	},
+	"Thanks": {
+		"message": "Agradecimentos"
+	},
+	"Translation": {
+		"message": "Tradução"
+	},
+	"about_about": {
+		"message": "Sobre"
+	},
+	"about_about_credits": {
+		"message": "Créditos de terceiros"
+	},
+	"about_about_eula": {
+		"message": "Contrato de licença de usuário final"
+	},
+	"about_about_privacy": {
+		"message": "Política de privacidade"
+	},
+	"about_about_thanks": {
+		"message": "Agradecimentos"
+	},
+	"about_accessibility": {
+		"message": "Acessibilidade"
+	},
+	"about_activity": {
+		"message": "Guias"
+	},
+	"about_appcache_internals": {
+		"message": "Cache de aplicativo"
+	},
+	"about_apps": {
+		"message": "Apps"
+	},
+	"about_badcastcrash": {
+		"message": "Bad cast crash"
+	},
+	"about_blob_internals": {
+		"message": "Blob Storage Internals"
+	},
+	"about_bookmarks": {
+		"message": "Marcadores"
+	},
+	"about_browserjs": {
+		"message": "Browser.js"
+	},
+	"about_cache": {
+		"message": "Cache"
+	},
+	"about_chrome": {
+		"message": "Sobre"
+	},
+	"about_chrome_urls": {
+		"message": "Chrome URLs"
+	},
+	"about_components": {
+		"message": "Componentes"
+	},
+	"about_conflicts": {
+		"message": "Módulos carregados"
+	},
+	"about_copresence": {
+		"message": "Informações sobre Copresence"
+	},
+	"about_crash": {
+		"message": "Travar o navegador"
+	},
+	"about_crashdump": {
+		"message": "Despejo de memória"
+	},
+	"about_crashes": {
+		"message": "Falhas"
+	},
+	"about_credits": {
+		"message": "Créditos de terceiros"
+	},
+	"about_device_log": {
+		"message": "Registro do dispositivo"
+	},
+	"about_devices": {
+		"message": "Dispositivos"
+	},
+	"about_discards": {
+		"message": "Guias descartadas"
+	},
+	"about_dns": {
+		"message": "Informações sobre DNS"
+	},
+	"about_downloads": {
+		"message": "Downloads"
+	},
+	"about_extensions": {
+		"message": "Extensões"
+	},
+	"about_flags": {
+		"message": "Experimentos"
+	},
+	"about_flash": {
+		"message": "Sobre o Flash"
+	},
+	"about_gcm_internals": {
+		"message": "GCM Internals"
+	},
+	"about_gpu": {
+		"message": "Informações sobre a GPU"
+	},
+	"about_gpuclean": {
+		"message": "Limpar contextos da GPU"
+	},
+	"about_gpucrash": {
+		"message": "Criar falha fatal na GPU"
+	},
+	"about_gpuhang": {
+		"message": "Criar falha na GPU"
+	},
+	"about_group": {
+		"message": "Grupo"
+	},
+	"about_hang": {
+		"message": "Criar falha no navegador"
+	},
+	"about_help": {
+		"message": "Sobre"
+	},
+	"about_histograms": {
+		"message": "Histograms"
+	},
+	"about_history": {
+		"message": "Histórico"
+	},
+	"about_indexeddb_internals": {
+		"message": "IndexedDB"
+	},
+	"about_inspect": {
+		"message": "Ferramentas de desenvolvimento"
+	},
+	"about_invalidations": {
+		"message": "Invalidations"
+	},
+	"about_kill": {
+		"message": "Forçar saída"
+	},
+	"about_local_state": {
+		"message": "Página de depuração do estado local"
+	},
+	"about_media_internals": {
+		"message": "Media internals"
+	},
+	"about_memory": {
+		"message": "Uso da memória"
+	},
+	"about_memory_internals": {
+		"message": "Memory Internals"
+	},
+	"about_more": {
+		"message": "Mais"
+	},
+	"about_nacl": {
+		"message": "Sobre o NaCl"
+	},
+	"about_net_internals": {
+		"message": "Net internals"
+	},
+	"about_network_errors": {
+		"message": "Erros de rede"
+	},
+	"about_newtab": {
+		"message": "Nova guia"
+	},
+	"about_omnibox": {
+		"message": "Página de depuração do Omnibox"
+	},
+	"about_password_manager_internals": {
+		"message": "Registros do gerenciador de senha"
+	},
+	"about_plugins": {
+		"message": "Plug-ins"
+	},
+	"about_policy": {
+		"message": "Políticas"
+	},
+	"about_ppapiflashcrash": {
+		"message": "Criar falha fatal no PPAPI Flash"
+	},
+	"about_ppapiflashhang": {
+		"message": "Criar falha no PPAPI Flash"
+	},
+	"about_predictors": {
+		"message": "Predictors"
+	},
+	"about_print": {
+		"message": "Imprimir"
+	},
+	"about_profiler": {
+		"message": "Profiler"
+	},
+	"about_quit": {
+		"message": "Sair"
+	},
+	"about_quota_internals": {
+		"message": "Informações sobre quotas de discos"
+	},
+	"about_remote_debug": {
+		"message": "Depuração remota"
+	},
+	"about_restart": {
+		"message": "Reiniciar"
+	},
+	"about_serviceworker_internals": {
+		"message": "ServiceWorker"
+	},
+	"about_settings": {
+		"message": "Configurações"
+	},
+	"about_settings_acceptlanguages": {
+		"message": "Idiomas preferidos para as páginas"
+	},
+	"about_settings_addressbar": {
+		"message": "Configurações da barra de endereço"
+	},
+	"about_settings_all": {
+		"message": "Exibir todas as configurações"
+	},
+	"about_settings_appearance": {
+		"message": "Configurações de aparência"
+	},
+	"about_settings_autofill": {
+		"message": "Configurações de preenchimento automático"
+	},
+	"about_settings_bookmarks": {
+		"message": "Configurações de marcadores"
+	},
+	"about_settings_clearbrowserdata": {
+		"message": "Limpar dados de navegação"
+	},
+	"about_settings_configurecommands": {
+		"message": "Atalhos de teclado"
+	},
+	"about_settings_content": {
+		"message": "Configurações de conteúdo"
+	},
+	"about_settings_contentexceptions_cookies": {
+		"message": "Exceções de cookies e dados do site"
+	},
+	"about_settings_contentexceptions_fullscreen": {
+		"message": "Exceções de tela cheia"
+	},
+	"about_settings_contentexceptions_images": {
+		"message": "Exceções de imagens"
+	},
+	"about_settings_contentexceptions_javascript": {
+		"message": "Exceções de JavaScript"
+	},
+	"about_settings_contentexceptions_keygen": {
+		"message": "Exceções da geração de chaves"
+	},
+	"about_settings_contentexceptions_location": {
+		"message": "Exceções de geolocalização"
+	},
+	"about_settings_contentexceptions_media_stream": {
+		"message": "Exceções de Media"
+	},
+	"about_settings_contentexceptions_media_stream_camera": {
+		"message": "Exceções da câmera"
+	},
+	"about_settings_contentexceptions_media_stream_mic": {
+		"message": "Exceções do microfone"
+	},
+	"about_settings_contentexceptions_midi_sysex": {
+		"message": "Controle total de dispositivos MIDI"
+	},
+	"about_settings_contentexceptions_mouselock": {
+		"message": "Exceções de cursor do mouse"
+	},
+	"about_settings_contentexceptions_multiple_automatic_downloads": {
+		"message": "Downloads automáticos"
+	},
+	"about_settings_contentexceptions_notifications": {
+		"message": "Exceções de notificações"
+	},
+	"about_settings_contentexceptions_plugins": {
+		"message": "Exceções de plug-ins"
+	},
+	"about_settings_contentexceptions_popups": {
+		"message": "Exceções de pop-ups"
+	},
+	"about_settings_contentexceptions_ppapi_broker": {
+		"message": "Exceções de acesso a plug-in sem sandbox"
+	},
+	"about_settings_contentexceptions_usb_devices": {
+		"message": "Dispositivos USB"
+	},
+	"about_settings_contentexceptions_zoomlevels": {
+		"message": "Níveis de zoom"
+	},
+	"about_settings_cookies": {
+		"message": "Cookies e dados do site"
+	},
+	"about_settings_createprofile": {
+		"message": "Adicionar usuário"
+	},
+	"about_settings_downloads": {
+		"message": "Configurações de downloads"
+	},
+	"about_settings_editdictionary": {
+		"message": "Dicionário ortográfico personalizado"
+	},
+	"about_settings_fonts": {
+		"message": "Fontes e codificação"
+	},
+	"about_settings_handlers": {
+		"message": "Manipuladores de protocolo"
+	},
+	"about_settings_importdata": {
+		"message": "Importar favoritos e configurações"
+	},
+	"about_settings_keyboard": {
+		"message": "Configurações de teclado"
+	},
+	"about_settings_languages": {
+		"message": "Idiomas"
+	},
+	"about_settings_manageprofile": {
+		"message": "Editar usuário"
+	},
+	"about_settings_mouse": {
+		"message": "Configurações do mouse"
+	},
+	"about_settings_network": {
+		"message": "Configurações de rede"
+	},
+	"about_settings_panel": {
+		"message": "Configurações do painel"
+	},
+	"about_settings_passwords": {
+		"message": "Senhas"
+	},
+	"about_settings_privacy": {
+		"message": "Configurações de privacidade"
+	},
+	"about_settings_qc": {
+		"message": "Configurações de comandos rápidos"
+	},
+	"about_settings_resetprofilesettings": {
+		"message": "Redefinir configurações"
+	},
+	"about_settings_search": {
+		"message": "Configurações de pesquisa"
+	},
+	"about_settings_searchengines": {
+		"message": "Mecanismos de pesquisa"
+	},
+	"about_settings_start_page": {
+		"message": "Configurações de inicialização"
+	},
+	"about_settings_startup": {
+		"message": "Páginas de inicialização"
+	},
+	"about_settings_tabs": {
+		"message": "Configurações de guias"
+	},
+	"about_settings_webpages": {
+		"message": "Configurações de navegação"
+	},
+	"about_shorthang": {
+		"message": "Short hang"
+	},
+	"about_signin_internals": {
+		"message": "Signin Internals"
+	},
+	"about_suggestions": {
+		"message": "Suggestions"
+	},
+	"about_sync_internals": {
+		"message": "Sync Internals"
+	},
+	"about_system": {
+		"message": "Sobre o sistema"
+	},
+	"about_terms": {
+		"message": "Termos de Serviço"
+	},
+	"about_themes": {
+		"message": "Temas"
+	},
+	"about_thumbnails": {
+		"message": "TopSites Thumbnails"
+	},
+	"about_tracing": {
+		"message": "Tracing"
+	},
+	"about_translate_internals": {
+		"message": "Translate Internals"
+	},
+	"about_user_actions": {
+		"message": "User Actions Debug Page"
+	},
+	"about_version": {
+		"message": "Sobre a versão"
+	},
+	"about_view_http_cache": {
+		"message": "View HTTP cache"
+	},
+	"about_webrtc_internals": {
+		"message": "WebRTC Internals"
+	},
+	"about_webrtc_logs": {
+		"message": "Registros WebRTC"
+	},
+	"draganddrop_description": {
+		"message": "Arrastar e largar para adicionar, mover, remover ou editar itens"
+	},
+	"extension_short_description": {
+		"description": "this will be in the chrome web store: must be 132 characters or less",
+		"message": "Mostra um menu com todas as páginas internas do navegador. Ex: about:about, about:plugins..."
+	}
+}

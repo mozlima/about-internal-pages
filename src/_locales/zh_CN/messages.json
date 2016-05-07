@@ -1,0 +1,495 @@
+{
+	"About": {
+		"message": "关于"
+	},
+	"All_items": {
+		"message": "所有项目"
+	},
+	"Auto_select": {
+		"message": "自动选择"
+	},
+	"Changelog": {
+		"message": "更新日志"
+	},
+	"Close": {
+		"message": "闭"
+	},
+	"Contribute": {
+		"message": "有助于"
+	},
+	"Contributors": {
+		"message": "贡献者"
+	},
+	"Donate_paypal": {
+		"message": "捐赠与贝宝"
+	},
+	"Favorites": {
+		"message": "收藏夹"
+	},
+	"Language": {
+		"message": "语言"
+	},
+	"Options": {
+		"message": "选项"
+	},
+	"Reset": {
+		"message": "重置"
+	},
+	"Save": {
+		"message": "保存"
+	},
+	"Separator": {
+		"message": "分隔器"
+	},
+	"Source_code": {
+		"message": "源代码"
+	},
+	"Thanks": {
+		"message": "感谢"
+	},
+	"Translation": {
+		"message": "翻译"
+	},
+	"about_about": {
+		"message": "关于"
+	},
+	"about_about_credits": {
+		"message": "第三方参与"
+	},
+	"about_about_eula": {
+		"message": "最终用户许可协议"
+	},
+	"about_about_privacy": {
+		"message": "隐私政策"
+	},
+	"about_about_thanks": {
+		"message": "感谢"
+	},
+	"about_accessibility": {
+		"message": "Accessibility"
+	},
+	"about_activity": {
+		"message": "标签"
+	},
+	"about_app_list": {
+		"message": "Apps list"
+	},
+	"about_appcache_internals": {
+		"message": "Application Cache"
+	},
+	"about_apps": {
+		"message": "应用"
+	},
+	"about_badcastcrash": {
+		"message": "Bad cast crash"
+	},
+	"about_blob_internals": {
+		"message": "Blob Storage Internals"
+	},
+	"about_bookmarks": {
+		"message": "书签"
+	},
+	"about_browserjs": {
+		"message": "Browser.js"
+	},
+	"about_cache": {
+		"message": "Cache"
+	},
+	"about_chrome": {
+		"message": "关于"
+	},
+	"about_chrome_signin": {
+		"message": "登录 Chrome"
+	},
+	"about_chrome_urls": {
+		"message": "Chrome URLs"
+	},
+	"about_components": {
+		"message": "组件"
+	},
+	"about_conflicts": {
+		"message": "加载的模块"
+	},
+	"about_copresence": {
+		"message": "Copresence 信息"
+	},
+	"about_crash": {
+		"message": "Crash"
+	},
+	"about_crashdump": {
+		"message": "Crash dump"
+	},
+	"about_crashes": {
+		"message": "崩溃"
+	},
+	"about_credits": {
+		"message": "第三方参与"
+	},
+	"about_device_log": {
+		"message": "设备日志"
+	},
+	"about_devices": {
+		"message": "设备"
+	},
+	"about_discards": {
+		"message": "Discarded Tabs"
+	},
+	"about_dns": {
+		"message": "About DNS"
+	},
+	"about_domain_reliability_internals": {
+		"message": "Domain reliability internals"
+	},
+	"about_downloads": {
+		"message": "下载"
+	},
+	"about_extensions": {
+		"message": "扩展"
+	},
+	"about_extensions_packextension": {
+		"message": "打包扩展"
+	},
+	"about_flags": {
+		"message": "试验功能"
+	},
+	"about_flash": {
+		"message": "关于 Flash"
+	},
+	"about_gcm_internals": {
+		"message": "GCM Internals"
+	},
+	"about_gpu": {
+		"message": "GPU Summary"
+	},
+	"about_gpuclean": {
+		"message": "GPU clean"
+	},
+	"about_gpucrash": {
+		"message": "GPU crash"
+	},
+	"about_gpuhang": {
+		"message": "GPU hang"
+	},
+	"about_group": {
+		"message": "组"
+	},
+	"about_hang": {
+		"message": "Hang"
+	},
+	"about_help": {
+		"message": "关于"
+	},
+	"about_histograms": {
+		"message": "Histograms"
+	},
+	"about_history": {
+		"message": "历史记录"
+	},
+	"about_identity_internals": {
+		"message": "Identity API 令牌缓存"
+	},
+	"about_indexeddb_internals": {
+		"message": "IndexedDB"
+	},
+	"about_inspect": {
+		"message": "开发者工具"
+	},
+	"about_instant": {
+		"message": "Instant preferences"
+	},
+	"about_interstitials": {
+		"message": "interstitial"
+	},
+	"about_invalidations": {
+		"message": "Invalidations"
+	},
+	"about_inducebrowsercrashforrealz": {
+		"message": "Induce browser crash for realz"
+	},
+	"about_kill": {
+		"message": "Kill"
+	},
+	"about_local_state": {
+		"message": "Local State Debug Page"
+	},
+	"about_media_internals": {
+		"message": "Media internals"
+	},
+	"about_memory": {
+		"message": "About memory"
+	},
+	"about_memory_internals": {
+		"message": "Memory Internals"
+	},
+	"about_more": {
+		"message": "更多"
+	},
+	"about_nacl": {
+		"message": "About NaCl"
+	},
+	"about_net_internals": {
+		"message": "Net internals"
+	},
+	"about_network_errors": {
+		"message": "网络错误"
+	},
+	"about_newtab": {
+		"message": "新标签"
+	},
+	"about_omnibox": {
+		"message": "Omnibox Debug Page"
+	},
+	"about_password_manager_internals": {
+		"message": "Password Manager Internals"
+	},
+	"about_plugins": {
+		"message": "插件"
+	},
+	"about_policy": {
+		"message": "政策"
+	},
+	"about_ppapiflashcrash": {
+		"message": "PPAPI Flash crash"
+	},
+	"about_ppapiflashhang": {
+		"message": "PPAPI Flash hang"
+	},
+	"about_predictors": {
+		"message": "Predictors"
+	},
+	"about_print": {
+		"message": "打印"
+	},
+	"about_profiler": {
+		"message": "Profiler"
+	},
+	"about_quit": {
+		"message": "退出"
+	},
+	"about_quota_internals": {
+		"message": "Quota Internals"
+	},
+	"about_remote_debug": {
+		"message": "Remote Debugging"
+	},
+	"about_restart": {
+		"message": "重新启动"
+	},
+	"about_serviceworker_internals": {
+		"message": "ServiceWorker"
+	},
+	"about_settings": {
+		"message": "设置"
+	},
+	"about_settings_acceptlanguages": {
+		"message": "网页首选语言"
+	},
+	"about_settings_addressbar": {
+		"message": "地址栏设置"
+	},
+	"about_settings_all": {
+		"message": "显示所有设定"
+	},
+	"about_settings_appearance": {
+		"message": "外观设置"
+	},
+	"about_settings_autofill": {
+		"message": "自动填充设置"
+	},
+	"about_settings_bookmarks": {
+		"message": "书签设置"
+	},
+	"about_settings_clearbrowserdata": {
+		"message": "清除浏览数据"
+	},
+	"about_settings_configurecommands": {
+		"message": "键盘快捷方式"
+	},
+	"about_settings_content": {
+		"message": "内容设置"
+	},
+	"about_settings_contentexceptions_cookies": {
+		"message": "Cookie 和网站数据例外情况"
+	},
+	"about_settings_contentexceptions_fullscreen": {
+		"message": "全屏例外情况"
+	},
+	"about_settings_contentexceptions_images": {
+		"message": "图片例外情况"
+	},
+	"about_settings_contentexceptions_javascript": {
+		"message": "JavaScript 例外情况"
+	},
+	"about_settings_contentexceptions_keygen": {
+		"message": "密钥生成例外情况"
+	},
+	"about_settings_contentexceptions_location": {
+		"message": "地理位置信息例外情况"
+	},
+	"about_settings_contentexceptions_media_stream": {
+		"message": "Media exceptions"
+	},
+	"about_settings_contentexceptions_media_stream_camera": {
+		"message": "摄像头例外情况"
+	},
+	"about_settings_contentexceptions_media_stream_mic": {
+		"message": "麦克风例外情况"
+	},
+	"about_settings_contentexceptions_midi_sysex": {
+		"message": "完全控制 MIDI 设备"
+	},
+	"about_settings_contentexceptions_mouselock": {
+		"message": "鼠标指针例外情况"
+	},
+	"about_settings_contentexceptions_multiple_automatic_downloads": {
+		"message": "自动下载"
+	},
+	"about_settings_contentexceptions_notifications": {
+		"message": "通知例外情况"
+	},
+	"about_settings_contentexceptions_plugins": {
+		"message": "插件例外情况"
+	},
+	"about_settings_contentexceptions_popups": {
+		"message": "弹出式窗口例外情况"
+	},
+	"about_settings_contentexceptions_ppapi_broker": {
+		"message": "未经过沙盒屏蔽的插件访问方面的例外情况"
+	},
+	"about_settings_contentexceptions_usb_devices": {
+		"message": "USB 设备"
+	},
+	"about_settings_contentexceptions_zoomlevels": {
+		"message": "缩放级别"
+	},
+	"about_settings_cookies": {
+		"message": "Cookie 和网站数据"
+	},
+	"about_settings_createprofile": {
+		"message": "添加用户"
+	},
+	"about_settings_downloads": {
+		"message": "下载设置"
+	},
+	"about_settings_editdictionary": {
+		"message": "自定义拼写字典"
+	},
+	"about_settings_fonts": {
+		"message": "字体和编码"
+	},
+	"about_settings_handlers": {
+		"message": "协议处理程序"
+	},
+	"about_settings_importdata": {
+		"message": "导入书签和设置"
+	},
+	"about_settings_keyboard": {
+		"message": "键盘设置"
+	},
+	"about_settings_languages": {
+		"message": "语言"
+	},
+	"about_settings_manageprofile": {
+		"message": "编辑用户"
+	},
+	"about_settings_mouse": {
+		"message": "鼠标设置"
+	},
+	"about_settings_network": {
+		"message": "网络设置"
+	},
+	"about_settings_panel": {
+		"message": "面板设置"
+	},
+	"about_settings_passwords": {
+		"message": "密码"
+	},
+	"about_settings_privacy": {
+		"message": "隐私设置"
+	},
+	"about_settings_qc": {
+		"message": "快捷的操作设置"
+	},
+	"about_settings_resetprofilesettings": {
+		"message": "重置设置"
+	},
+	"about_settings_search": {
+		"message": "搜索设置"
+	},
+	"about_settings_searchengines": {
+		"message": "搜索引擎"
+	},
+	"about_settings_start_page": {
+		"message": "启动设置"
+	},
+	"about_settings_startup": {
+		"message": "启动页"
+	},
+	"about_settings_tabs": {
+		"message": "标签设置"
+	},
+	"about_settings_webpages": {
+		"message": "网页设置"
+	},
+	"about_shorthang": {
+		"message": "Short hang"
+	},
+	"about_signin_internals": {
+		"message": "Signin Internals"
+	},
+	"about_startpage_news": {
+		"message": "新闻"
+	},
+	"about_suggestions": {
+		"message": "Suggestions"
+	},
+	"about_sync_internals": {
+		"message": "Sync Internals"
+	},
+	"about_syncfs_internals": {
+		"message": "Sync File System Internals"
+	},
+	"about_system": {
+		"message": "关于系统"
+	},
+	"about_terms": {
+		"message": "服务条款"
+	},
+	"about_themes": {
+		"message": "主题"
+	},
+	"about_thumbnails": {
+		"message": "TopSites Thumbnails"
+	},
+	"about_tracing": {
+		"message": "Tracing"
+	},
+	"about_translate_internals": {
+		"message": "Translate Internals"
+	},
+	"about_user_actions": {
+		"message": "User Actions Debug Page"
+	},
+	"about_user_manager": {
+		"message": "用户管理器"
+	},
+	"about_version": {
+		"message": "关于版本"
+	},
+	"about_view_http_cache": {
+		"message": "View HTTP cache"
+	},
+	"about_webrtc_internals": {
+		"message": "WebRTC Internals"
+	},
+	"about_webrtc_logs": {
+		"message": "WebRTC日志"
+	},
+	"draganddrop_description": {
+		"message": "拖放重新排列或编辑项目"
+	},
+	"extension_short_description": {
+		"description": "this will be in the chrome web store: must be 132 characters or less",
+		"message": "显示一个带有所有内部页面的菜单。示例︰ about:about, about:plugins..."
+	}
+}

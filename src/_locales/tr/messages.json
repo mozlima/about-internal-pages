@@ -1,0 +1,495 @@
+{
+	"About": {
+		"message": "Hakkında"
+	},
+	"All_items": {
+		"message": "Tüm öğeleri"
+	},
+	"Auto_select": {
+		"message": "Otomatik seç"
+	},
+	"Changelog": {
+		"message": "Değişiklikler"
+	},
+	"Close": {
+		"message": "Kapat"
+	},
+	"Contribute": {
+		"message": "Katkıda bulunmak"
+	},
+	"Contributors": {
+		"message": "Katkıda bulunanlar"
+	},
+	"Donate_paypal": {
+		"message": "PayPal ile bağış"
+	},
+	"Favorites": {
+		"message": "Sık"
+	},
+	"Language": {
+		"message": "Dil"
+	},
+	"Options": {
+		"message": "Seçenekler"
+	},
+	"Reset": {
+		"message": "Ayarları sıfırlayın"
+	},
+	"Save": {
+		"message": "Kaydet"
+	},
+	"Separator": {
+		"message": "Ayırıcı"
+	},
+	"Source_code": {
+		"message": "Kaynak kodu"
+	},
+	"Thanks": {
+		"message": "Teşekkürler"
+	},
+	"Translation": {
+		"message": "Çeviri"
+	},
+	"about_about": {
+		"message": "Hakkında"
+	},
+	"about_about_credits": {
+		"message": "Üçüncü parti katkıda bulunanlar"
+	},
+	"about_about_eula": {
+		"message": "Son kullanıcı lisans sözleşmesi"
+	},
+	"about_about_privacy": {
+		"message": "Gizlilik ilkesi"
+	},
+	"about_about_thanks": {
+		"message": "Teşekkürler"
+	},
+	"about_accessibility": {
+		"message": "Accessibility"
+	},
+	"about_activity": {
+		"message": "Sekmeler"
+	},
+	"about_app_list": {
+		"message": "Apps list"
+	},
+	"about_appcache_internals": {
+		"message": "Application Cache"
+	},
+	"about_apps": {
+		"message": "Uygulamalar"
+	},
+	"about_badcastcrash": {
+		"message": "Bad cast crash"
+	},
+	"about_blob_internals": {
+		"message": "Blob Storage Internals"
+	},
+	"about_bookmarks": {
+		"message": "Yer imleri"
+	},
+	"about_browserjs": {
+		"message": "Browser.js"
+	},
+	"about_cache": {
+		"message": "Cache"
+	},
+	"about_chrome": {
+		"message": "Hakkında"
+	},
+	"about_chrome_signin": {
+		"message": "Chrome'da oturum açma"
+	},
+	"about_chrome_urls": {
+		"message": "Chrome URLs"
+	},
+	"about_components": {
+		"message": "Bileşenler"
+	},
+	"about_conflicts": {
+		"message": "Yüklenen modüller"
+	},
+	"about_copresence": {
+		"message": "Copresence Bilgisi"
+	},
+	"about_crash": {
+		"message": "Crash"
+	},
+	"about_crashdump": {
+		"message": "Crash dump"
+	},
+	"about_crashes": {
+		"message": "Kilitlenmeler"
+	},
+	"about_credits": {
+		"message": "Üçüncü parti katkıda bulunanlar"
+	},
+	"about_device_log": {
+		"message": "Cihaz Günlüğü"
+	},
+	"about_devices": {
+		"message": "Cihazlar"
+	},
+	"about_discards": {
+		"message": "Discarded Tabs"
+	},
+	"about_dns": {
+		"message": "About DNS"
+	},
+	"about_domain_reliability_internals": {
+		"message": "Domain reliability internals"
+	},
+	"about_downloads": {
+		"message": "İndirmeler"
+	},
+	"about_extensions": {
+		"message": "Eklentiler"
+	},
+	"about_extensions_packextension": {
+		"message": "Eklenti paketle"
+	},
+	"about_flags": {
+		"message": "Deneyler"
+	},
+	"about_flash": {
+		"message": "Flash hakkında"
+	},
+	"about_gcm_internals": {
+		"message": "GCM Internals"
+	},
+	"about_gpu": {
+		"message": "GPU Summary"
+	},
+	"about_gpuclean": {
+		"message": "GPU clean"
+	},
+	"about_gpucrash": {
+		"message": "GPU crash"
+	},
+	"about_gpuhang": {
+		"message": "GPU hang"
+	},
+	"about_group": {
+		"message": "Grup"
+	},
+	"about_hang": {
+		"message": "Hang"
+	},
+	"about_help": {
+		"message": "Hakkında"
+	},
+	"about_histograms": {
+		"message": "Histograms"
+	},
+	"about_history": {
+		"message": "Geçmiş"
+	},
+	"about_identity_internals": {
+		"message": "Kimlik API'sı Jeton Önbelleği"
+	},
+	"about_indexeddb_internals": {
+		"message": "IndexedDB"
+	},
+	"about_inspect": {
+		"message": "Geliştirme Araçları"
+	},
+	"about_instant": {
+		"message": "Instant preferences"
+	},
+	"about_interstitials": {
+		"message": "interstitial"
+	},
+	"about_invalidations": {
+		"message": "Invalidations"
+	},
+	"about_inducebrowsercrashforrealz": {
+		"message": "Induce browser crash for realz"
+	},
+	"about_kill": {
+		"message": "Kill"
+	},
+	"about_local_state": {
+		"message": "Local State Debug Page"
+	},
+	"about_media_internals": {
+		"message": "Media internals"
+	},
+	"about_memory": {
+		"message": "About memory"
+	},
+	"about_memory_internals": {
+		"message": "Memory Internals"
+	},
+	"about_more": {
+		"message": "Daha"
+	},
+	"about_nacl": {
+		"message": "About NaCl"
+	},
+	"about_net_internals": {
+		"message": "Net internals"
+	},
+	"about_network_errors": {
+		"message": "Ağ hataları"
+	},
+	"about_newtab": {
+		"message": "Yeni sekme"
+	},
+	"about_omnibox": {
+		"message": "Omnibox Debug Page"
+	},
+	"about_password_manager_internals": {
+		"message": "Password Manager Internals"
+	},
+	"about_plugins": {
+		"message": "Eklentiler"
+	},
+	"about_policy": {
+		"message": "Politikalar"
+	},
+	"about_ppapiflashcrash": {
+		"message": "PPAPI Flash crash"
+	},
+	"about_ppapiflashhang": {
+		"message": "PPAPI Flash hang"
+	},
+	"about_predictors": {
+		"message": "Predictors"
+	},
+	"about_print": {
+		"message": "Yazdır"
+	},
+	"about_profiler": {
+		"message": "Profiler"
+	},
+	"about_quit": {
+		"message": "Çıkış"
+	},
+	"about_quota_internals": {
+		"message": "Quota Internals"
+	},
+	"about_remote_debug": {
+		"message": "Remote Debugging"
+	},
+	"about_restart": {
+		"message": "Yeniden başlatılmasını "
+	},
+	"about_serviceworker_internals": {
+		"message": "ServiceWorker"
+	},
+	"about_settings": {
+		"message": "Ayarlar"
+	},
+	"about_settings_acceptlanguages": {
+		"message": "Web sayfaları için tercih edilen dil"
+	},
+	"about_settings_addressbar": {
+		"message": "Adres çubuğu ayarları"
+	},
+	"about_settings_all": {
+		"message": "Tüm ayarları görüntülemek"
+	},
+	"about_settings_appearance": {
+		"message": "Görünüm ayarları"
+	},
+	"about_settings_autofill": {
+		"message": "Otomatik doldurma ayarları"
+	},
+	"about_settings_bookmarks": {
+		"message": "Yer imleri ayarları"
+	},
+	"about_settings_clearbrowserdata": {
+		"message": "Tarama verilerini temizle"
+	},
+	"about_settings_configurecommands": {
+		"message": "Klavye kısayolları"
+	},
+	"about_settings_content": {
+		"message": "İçerik ayarları"
+	},
+	"about_settings_contentexceptions_cookies": {
+		"message": "Çerez ve site verisi istisnaları"
+	},
+	"about_settings_contentexceptions_fullscreen": {
+		"message": "Tam ekran istisnaları"
+	},
+	"about_settings_contentexceptions_images": {
+		"message": "Resim istisnaları"
+	},
+	"about_settings_contentexceptions_javascript": {
+		"message": "JavaScript istisnaları"
+	},
+	"about_settings_contentexceptions_keygen": {
+		"message": "Anahtar oluşturma istisnaları"
+	},
+	"about_settings_contentexceptions_location": {
+		"message": "Fiziksel konum istisnaları"
+	},
+	"about_settings_contentexceptions_media_stream": {
+		"message": "Media exceptions"
+	},
+	"about_settings_contentexceptions_media_stream_camera": {
+		"message": "Camera istisnaları"
+	},
+	"about_settings_contentexceptions_media_stream_mic": {
+		"message": "Mikrofon istisnaları"
+	},
+	"about_settings_contentexceptions_midi_sysex": {
+		"message": "MIDI cihazları tam denetimi"
+	},
+	"about_settings_contentexceptions_mouselock": {
+		"message": "Fare imleci istisnaları"
+	},
+	"about_settings_contentexceptions_multiple_automatic_downloads": {
+		"message": "Otomatik İndirmeler"
+	},
+	"about_settings_contentexceptions_notifications": {
+		"message": "Bildirim istisnaları"
+	},
+	"about_settings_contentexceptions_plugins": {
+		"message": "Eklenti istisnaları"
+	},
+	"about_settings_contentexceptions_popups": {
+		"message": "Pop-up istisnaları"
+	},
+	"about_settings_contentexceptions_ppapi_broker": {
+		"message": "Korumalı alan içinde olmayan eklenti erişimi istisnaları"
+	},
+	"about_settings_contentexceptions_usb_devices": {
+		"message": "USB Cihazları"
+	},
+	"about_settings_contentexceptions_zoomlevels": {
+		"message": "Yakınlaştırma Seviyeleri"
+	},
+	"about_settings_cookies": {
+		"message": "Çerezler ve site verileri"
+	},
+	"about_settings_createprofile": {
+		"message": "Kişi ekle"
+	},
+	"about_settings_downloads": {
+		"message": "İndirme ayarları"
+	},
+	"about_settings_editdictionary": {
+		"message": "Özel yazım sözlüğü"
+	},
+	"about_settings_fonts": {
+		"message": "Yazı tipleri ve kodlama"
+	},
+	"about_settings_handlers": {
+		"message": "Protokol işleyicileri"
+	},
+	"about_settings_importdata": {
+		"message": "Yer işaretlerini ve ayarları içe aktar"
+	},
+	"about_settings_keyboard": {
+		"message": "Keyboard settings"
+	},
+	"about_settings_languages": {
+		"message": "Diller"
+	},
+	"about_settings_manageprofile": {
+		"message": "Düzenleme kişi"
+	},
+	"about_settings_mouse": {
+		"message": "Fare ayarları"
+	},
+	"about_settings_network": {
+		"message": "Ağ ayarları"
+	},
+	"about_settings_panel": {
+		"message": "Panel ayarları"
+	},
+	"about_settings_passwords": {
+		"message": "Şifreler"
+	},
+	"about_settings_privacy": {
+		"message": "Gizlilik ayarları"
+	},
+	"about_settings_qc": {
+		"message": "Hızlı komutları ayarları"
+	},
+	"about_settings_resetprofilesettings": {
+		"message": "Ayarları sıfırlayın"
+	},
+	"about_settings_search": {
+		"message": "Arama ayarları"
+	},
+	"about_settings_searchengines": {
+		"message": "Arama motorları"
+	},
+	"about_settings_start_page": {
+		"message": "Başlangıç sayfa ayarları"
+	},
+	"about_settings_startup": {
+		"message": "Başlangıç sayfaları"
+	},
+	"about_settings_tabs": {
+		"message": "Sekmeler ayarları"
+	},
+	"about_settings_webpages": {
+		"message": "Web Sayfaları ayarları"
+	},
+	"about_shorthang": {
+		"message": "Short hang"
+	},
+	"about_signin_internals": {
+		"message": "Signin Internals"
+	},
+	"about_startpage_news": {
+		"message": "Haberler"
+	},
+	"about_suggestions": {
+		"message": "Suggestions"
+	},
+	"about_sync_internals": {
+		"message": "Sync Internals"
+	},
+	"about_syncfs_internals": {
+		"message": "Sync File System Internals"
+	},
+	"about_system": {
+		"message": "Sistem Hakkında"
+	},
+	"about_terms": {
+		"message": "Hizmet Şartları"
+	},
+	"about_themes": {
+		"message": "Temalar"
+	},
+	"about_thumbnails": {
+		"message": "TopSites Thumbnails"
+	},
+	"about_tracing": {
+		"message": "Tracing"
+	},
+	"about_translate_internals": {
+		"message": "Translate Internals"
+	},
+	"about_user_actions": {
+		"message": "User Actions Debug Page"
+	},
+	"about_user_manager": {
+		"message": "Kullanıcı Yöneticisi"
+	},
+	"about_version": {
+		"message": "Sürüm Hakkında"
+	},
+	"about_view_http_cache": {
+		"message": "View HTTP cache"
+	},
+	"about_webrtc_internals": {
+		"message": "WebRTC Internals"
+	},
+	"about_webrtc_logs": {
+		"message": "WebRTC günlükleri"
+	},
+	"draganddrop_description": {
+		"message": "Sürükle ve bırak yeniden düzenlemek veya öğeleri düzenlemek için"
+	},
+	"extension_short_description": {
+		"description": "this will be in the chrome web store: must be 132 characters or less",
+		"message": "Tüm iç sayfalar içeren bir menü gösterir. Örnek: about:about, about:plugins..."
+	}
+}

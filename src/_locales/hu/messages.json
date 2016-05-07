@@ -1,0 +1,462 @@
+{
+	"About": {
+		"message": "Névjegy"
+	},
+	"All_items": {
+		"message": "Minden"
+	},
+	"Auto_select": {
+		"message": "Automatikus kiválasztás"
+	},
+	"Changelog": {
+		"message": "Változások listája"
+	},
+	"Close": {
+		"message": "Bezárás"
+	},
+	"Contribute": {
+		"message": "Hozzájárul"
+	},
+	"Contributors": {
+		"message": "Közreműködők"
+	},
+	"Donate_paypal": {
+		"message": "Adományoz a PayPal"
+	},
+	"Favorites": {
+		"message": "Könyvjelző"
+	},
+	"Language": {
+		"message": "Nyelv"
+	},
+	"Options": {
+		"message": "Beállítások"
+	},
+	"Reset": {
+		"message": "Visszaállítás"
+	},
+	"Save": {
+		"message": "Mentés"
+	},
+	"Separator": {
+		"message": "Separator"
+	},
+	"Source_code": {
+		"message": "Forráskód"
+	},
+	"Thanks": {
+		"message": "Köszönet"
+	},
+	"Translation": {
+		"message": "Translation"
+	},
+	"about_about": {
+		"message": "Névjegy"
+	},
+	"about_about_credits": {
+		"message": "Harmadik felek ismertetése"
+	},
+	"about_about_eula": {
+		"message": "Végfelhasználói licencszerződés"
+	},
+	"about_about_privacy": {
+		"message": "Adatvédelmi leírás"
+	},
+	"about_about_thanks": {
+		"message": "Köszönet"
+	},
+	"about_accessibility": {
+		"message": "Accessibility"
+	},
+	"about_activity": {
+		"message": "Lapok"
+	},
+	"about_appcache_internals": {
+		"message": "Alkalmazás-gyorsítótár"
+	},
+	"about_apps": {
+		"message": "Alkalmazások"
+	},
+	"about_badcastcrash": {
+		"message": "Bad cast crash"
+	},
+	"about_blob_internals": {
+		"message": "Blob Storage Internals"
+	},
+	"about_bookmarks": {
+		"message": "Könyvjelző"
+	},
+	"about_browserjs": {
+		"message": "Browser.js"
+	},
+	"about_cache": {
+		"message": "Cache"
+	},
+	"about_chrome": {
+		"message": "Névjegy"
+	},
+	"about_chrome_urls": {
+		"message": "Chrome URLs"
+	},
+	"about_components": {
+		"message": "Összetevők"
+	},
+	"about_conflicts": {
+		"message": "Betöltött modulok"
+	},
+	"about_copresence": {
+		"message": "Copresence információk"
+	},
+	"about_crash": {
+		"message": "Crash"
+	},
+	"about_crashdump": {
+		"message": "Crash dump"
+	},
+	"about_crashes": {
+		"message": "Összeomlások"
+	},
+	"about_credits": {
+		"message": "Harmadik felek ismertetése"
+	},
+	"about_device_log": {
+		"message": "Eszköznapló"
+	},
+	"about_devices": {
+		"message": "Eszközök"
+	},
+	"about_discards": {
+		"message": "Discarded Tabs"
+	},
+	"about_dns": {
+		"message": "About DNS"
+	},
+	"about_downloads": {
+		"message": "Letöltések"
+	},
+	"about_extensions": {
+		"message": "Bővítmények"
+	},
+	"about_flags": {
+		"message": "Kísérletek"
+	},
+	"about_flash": {
+		"message": "A Flash-ről"
+	},
+	"about_gcm_internals": {
+		"message": "GCM Internals"
+	},
+	"about_gpu": {
+		"message": "GPU Summary"
+	},
+	"about_gpuclean": {
+		"message": "GPU clean"
+	},
+	"about_gpucrash": {
+		"message": "GPU crash"
+	},
+	"about_gpuhang": {
+		"message": "GPU hang"
+	},
+	"about_group": {
+		"message": "Csoportosít"
+	},
+	"about_hang": {
+		"message": "Hang"
+	},
+	"about_help": {
+		"message": "Névjegy"
+	},
+	"about_histograms": {
+		"message": "Histograms"
+	},
+	"about_history": {
+		"message": "Előzmények"
+	},
+	"about_indexeddb_internals": {
+		"message": "IndexedDB"
+	},
+	"about_inspect": {
+		"message": "Inspect with Developer Tools"
+	},
+	"about_invalidations": {
+		"message": "Invalidations"
+	},
+	"about_kill": {
+		"message": "Erő kilép"
+	},
+	"about_local_state": {
+		"message": "Local State Debug Page"
+	},
+	"about_media_internals": {
+		"message": "Media internals"
+	},
+	"about_memory": {
+		"message": "About memory"
+	},
+	"about_memory_internals": {
+		"message": "Memory Internals"
+	},
+	"about_more": {
+		"message": "Több"
+	},
+	"about_nacl": {
+		"message": "About NaCl"
+	},
+	"about_net_internals": {
+		"message": "Net internals"
+	},
+	"about_network_errors": {
+		"message": "Network errors"
+	},
+	"about_newtab": {
+		"message": "Új lap"
+	},
+	"about_omnibox": {
+		"message": "Omnibox Debug Page"
+	},
+	"about_password_manager_internals": {
+		"message": "Password Manager Internals"
+	},
+	"about_plugins": {
+		"message": "Plug-inek"
+	},
+	"about_policy": {
+		"message": "Házirendek"
+	},
+	"about_ppapiflashcrash": {
+		"message": "PPAPI Flash crash"
+	},
+	"about_ppapiflashhang": {
+		"message": "PPAPI Flash hang"
+	},
+	"about_predictors": {
+		"message": "Predictors"
+	},
+	"about_print": {
+		"message": "Nyomtatás"
+	},
+	"about_profiler": {
+		"message": "Profiler"
+	},
+	"about_quit": {
+		"message": "Kilépés"
+	},
+	"about_quota_internals": {
+		"message": "Quota Internals"
+	},
+	"about_remote_debug": {
+		"message": "Remote Debugging"
+	},
+	"about_restart": {
+		"message": "Újraindítása"
+	},
+	"about_serviceworker_internals": {
+		"message": "ServiceWorker"
+	},
+	"about_settings": {
+		"message": "Beállítások"
+	},
+	"about_settings_acceptlanguages": {
+		"message": "Előnyben részesített nyelvek a weblapokon"
+	},
+	"about_settings_addressbar": {
+		"message": "Címsorába beállítások"
+	},
+	"about_settings_all": {
+		"message": "Minden megjelenítése"
+	},
+	"about_settings_appearance": {
+		"message": "A megjelenítés beállításai"
+	},
+	"about_settings_autofill": {
+		"message": "Automatikus kitöltési beállítások"
+	},
+	"about_settings_bookmarks": {
+		"message": "Könyvjelzők beállítások"
+	},
+	"about_settings_clearbrowserdata": {
+		"message": "Böngészési adatok törlése"
+	},
+	"about_settings_configurecommands": {
+		"message": "Billentyűparancsok"
+	},
+	"about_settings_content": {
+		"message": "Tartalombeállítások"
+	},
+	"about_settings_contentexceptions_cookies": {
+		"message": "Cookie- és webhelyadat-kivételek"
+	},
+	"about_settings_contentexceptions_fullscreen": {
+		"message": "Teljes képernyős kivételek"
+	},
+	"about_settings_contentexceptions_images": {
+		"message": "Képkivételek"
+	},
+	"about_settings_contentexceptions_javascript": {
+		"message": "JavaScript-kivételek"
+	},
+	"about_settings_contentexceptions_keygen": {
+		"message": "Kulcsgenerálási kivételek"
+	},
+	"about_settings_contentexceptions_location": {
+		"message": "Helymeghatározási kivételek"
+	},
+	"about_settings_contentexceptions_media_stream": {
+		"message": "Media exceptions"
+	},
+	"about_settings_contentexceptions_media_stream_camera": {
+		"message": "Kamerával kapcsolatos kivételek"
+	},
+	"about_settings_contentexceptions_media_stream_mic": {
+		"message": "Mikrofonnal kapcsolatos kivételek"
+	},
+	"about_settings_contentexceptions_midi_sysex": {
+		"message": "MIDI eszközök – teljes hozzáférés"
+	},
+	"about_settings_contentexceptions_mouselock": {
+		"message": "Egérmutató-kivételek"
+	},
+	"about_settings_contentexceptions_multiple_automatic_downloads": {
+		"message": "Automatikus letöltések"
+	},
+	"about_settings_contentexceptions_notifications": {
+		"message": "Értesítések kivételei"
+	},
+	"about_settings_contentexceptions_plugins": {
+		"message": "Beépülő modulok kivételei"
+	},
+	"about_settings_contentexceptions_popups": {
+		"message": "Előugró ablakok kivételei"
+	},
+	"about_settings_contentexceptions_ppapi_broker": {
+		"message": "Sandboxon kívüli beépülő modulok hozzáférésének kivételei"
+	},
+	"about_settings_contentexceptions_usb_devices": {
+		"message": "USB-eszközök"
+	},
+	"about_settings_contentexceptions_zoomlevels": {
+		"message": "Nagyítási/kicsinyítési szintek"
+	},
+	"about_settings_cookies": {
+		"message": "Cookie-k és webhelyadatok"
+	},
+	"about_settings_createprofile": {
+		"message": "Személy hozzáadása"
+	},
+	"about_settings_downloads": {
+		"message": "Letöltések beállítások"
+	},
+	"about_settings_editdictionary": {
+		"message": "Egyéni helyesírási szótár"
+	},
+	"about_settings_fonts": {
+		"message": "Betűtípusok és karakterkódolás"
+	},
+	"about_settings_handlers": {
+		"message": "Protokollkezelők"
+	},
+	"about_settings_importdata": {
+		"message": "Könyvjelzők és beállítások importálása"
+	},
+	"about_settings_keyboard": {
+		"message": "Billentyűzet beállítások"
+	},
+	"about_settings_languages": {
+		"message": "Nyelvek"
+	},
+	"about_settings_manageprofile": {
+		"message": "Személy szerkesztése"
+	},
+	"about_settings_mouse": {
+		"message": "Egér beállítások"
+	},
+	"about_settings_network": {
+		"message": "Hálózati beállítások"
+	},
+	"about_settings_panel": {
+		"message": "Panel beállítások"
+	},
+	"about_settings_passwords": {
+		"message": "Jelszavak"
+	},
+	"about_settings_privacy": {
+		"message": "Adatvédelmi beállítások"
+	},
+	"about_settings_qc": {
+		"message": "Gyors parancsok beállításait"
+	},
+	"about_settings_resetprofilesettings": {
+		"message": "A beállítások visszaállítása"
+	},
+	"about_settings_search": {
+		"message": "Keresési beállítások"
+	},
+	"about_settings_searchengines": {
+		"message": "Keresők"
+	},
+	"about_settings_start_page": {
+		"message": "Indulás beállításai"
+	},
+	"about_settings_startup": {
+		"message": "Kezdőoldalak"
+	},
+	"about_settings_tabs": {
+		"message": "Lapok beállítások"
+	},
+	"about_settings_webpages": {
+		"message": "Weboldalak beállításai"
+	},
+	"about_shorthang": {
+		"message": "Short hang"
+	},
+	"about_signin_internals": {
+		"message": "Signin Internals"
+	},
+	"about_suggestions": {
+		"message": "Suggestions"
+	},
+	"about_sync_internals": {
+		"message": "Sync Internals"
+	},
+	"about_system": {
+		"message": "A rendszerről"
+	},
+	"about_terms": {
+		"message": "Általános Szerződési Feltételek"
+	},
+	"about_themes": {
+		"message": "Témák"
+	},
+	"about_thumbnails": {
+		"message": "TopSites Thumbnails"
+	},
+	"about_tracing": {
+		"message": "Tracing"
+	},
+	"about_translate_internals": {
+		"message": "Translate Internals"
+	},
+	"about_user_actions": {
+		"message": "User Actions Debug Page"
+	},
+	"about_version": {
+		"message": "A verzióról"
+	},
+	"about_view_http_cache": {
+		"message": "View HTTP cache"
+	},
+	"about_webrtc_internals": {
+		"message": "WebRTC Internals"
+	},
+	"about_webrtc_logs": {
+		"message": "WebRTC-naplók"
+	},
+	"draganddrop_description": {
+		"message": "Drag and drop tételek szerkesztését"
+	},
+	"extension_short_description": {
+		"description": "this will be in the chrome web store: must be 132 characters or less",
+		"message": "Mutatja a menü az összes belső oldalakon. Példa: about:about, about:plugins..."
+	}
+}

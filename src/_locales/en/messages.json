@@ -1,0 +1,498 @@
+{
+	"About": {
+		"message": "About"
+	},
+	"All_items": {
+		"message": "All items"
+	},
+	"Auto_select": {
+		"message": "Auto-select"
+	},
+	"Changelog": {
+		"message": "Changelog"
+	},
+	"Close": {
+		"message": "Close"
+	},
+	"Contribute": {
+		"message": "Contribute"
+	},
+	"Contributors": {
+		"message": "Contributors"
+	},
+	"Donate_paypal": {
+		"message": "Donate with PayPal"
+	},
+	"Favorites": {
+		"message": "Favorites"
+	},
+	"Language": {
+		"message": "Language"
+	},
+	"Options": {
+		"message": "Options"
+	},
+	"Rate_it": {
+		"message": "Rate it"
+	},
+	"Reset": {
+		"message": "Reset"
+	},
+	"Save": {
+		"message": "Save"
+	},
+	"Separator": {
+		"message": "Separator"
+	},
+	"Source_code": {
+		"message": "Source code"
+	},
+	"Thanks": {
+		"message": "Thanks"
+	},
+	"Translation": {
+		"message": "Translation"
+	},
+	"about_about": {
+		"message": "About"
+	},
+	"about_about_credits": {
+		"message": "Credits"
+	},
+	"about_about_eula": {
+		"message": "EULA"
+	},
+	"about_about_privacy": {
+		"message": "Privacy policy"
+	},
+	"about_about_thanks": {
+		"message": "Thanks"
+	},
+	"about_accessibility": {
+		"message": "Accessibility"
+	},
+	"about_activity": {
+		"message": "Tabs"
+	},
+	"about_app_list": {
+		"message": "Apps list"
+	},
+	"about_appcache_internals": {
+		"message": "Application Cache"
+	},
+	"about_apps": {
+		"message": "Apps"
+	},
+	"about_badcastcrash": {
+		"message": "Bad cast crash"
+	},
+	"about_blob_internals": {
+		"message": "Blob Storage Internals"
+	},
+	"about_bookmarks": {
+		"message": "Bookmarks"
+	},
+	"about_browserjs": {
+		"message": "Browser.js"
+	},
+	"about_cache": {
+		"message": "Cache"
+	},
+	"about_chrome": {
+		"message": "About"
+	},
+	"about_chrome_signin": {
+		"message": "Sign in to Chrome"
+	},
+	"about_chrome_urls": {
+		"message": "Chrome URLs"
+	},
+	"about_components": {
+		"message": "Components"
+	},
+	"about_conflicts": {
+		"message": "Modules loaded"
+	},
+	"about_copresence": {
+		"message": "Copresence Info"
+	},
+	"about_crash": {
+		"message": "Crash"
+	},
+	"about_crashdump": {
+		"message": "Crash dump"
+	},
+	"about_crashes": {
+		"message": "Crashes"
+	},
+	"about_credits": {
+		"message": "Credits"
+	},
+	"about_device_log": {
+		"message": "Device Log"
+	},
+	"about_devices": {
+		"message": "Devices"
+	},
+	"about_discards": {
+		"message": "Discarded Tabs"
+	},
+	"about_dns": {
+		"message": "About DNS"
+	},
+	"about_domain_reliability_internals": {
+		"message": "Domain reliability internals"
+	},
+	"about_downloads": {
+		"message": "Downloads"
+	},
+	"about_extensions": {
+		"message": "Extensions"
+	},
+	"about_extensions_packextension": {
+		"message": "Pack extension"
+	},
+	"about_flags": {
+		"message": "Experiments"
+	},
+	"about_flash": {
+		"message": "About Flash"
+	},
+	"about_gcm_internals": {
+		"message": "GCM Internals"
+	},
+	"about_gpu": {
+		"message": "GPU Summary"
+	},
+	"about_gpuclean": {
+		"message": "GPU clean"
+	},
+	"about_gpucrash": {
+		"message": "GPU crash"
+	},
+	"about_gpuhang": {
+		"message": "GPU hang"
+	},
+	"about_group": {
+		"message": "Group"
+	},
+	"about_hang": {
+		"message": "Hang"
+	},
+	"about_help": {
+		"message": "About"
+	},
+	"about_histograms": {
+		"message": "Histograms"
+	},
+	"about_history": {
+		"message": "History"
+	},
+	"about_identity_internals": {
+		"message": "Identity API Token Cache"
+	},
+	"about_indexeddb_internals": {
+		"message": "IndexedDB"
+	},
+	"about_inspect": {
+		"message": "Inspect with Developer Tools"
+	},
+	"about_instant": {
+		"message": "Instant preferences"
+	},
+	"about_interstitials": {
+		"message": "interstitial"
+	},
+	"about_invalidations": {
+		"message": "Invalidations"
+	},
+	"about_inducebrowsercrashforrealz": {
+		"message": "Induce browser crash for realz"
+	},
+	"about_kill": {
+		"message": "Kill"
+	},
+	"about_local_state": {
+		"message": "Local State Debug Page"
+	},
+	"about_media_internals": {
+		"message": "Media internals"
+	},
+	"about_memory": {
+		"message": "About memory"
+	},
+	"about_memory_internals": {
+		"message": "Memory Internals"
+	},
+	"about_more": {
+		"message": "More"
+	},
+	"about_nacl": {
+		"message": "About NaCl"
+	},
+	"about_net_internals": {
+		"message": "Net internals"
+	},
+	"about_network_errors": {
+		"message": "Network errors"
+	},
+	"about_newtab": {
+		"message": "New Tab"
+	},
+	"about_omnibox": {
+		"message": "Omnibox Debug Page"
+	},
+	"about_password_manager_internals": {
+		"message": "Password Manager Internals"
+	},
+	"about_plugins": {
+		"message": "Plug-ins"
+	},
+	"about_policy": {
+		"message": "Policies"
+	},
+	"about_ppapiflashcrash": {
+		"message": "PPAPI Flash crash"
+	},
+	"about_ppapiflashhang": {
+		"message": "PPAPI Flash hang"
+	},
+	"about_predictors": {
+		"message": "Predictors"
+	},
+	"about_print": {
+		"message": "Print"
+	},
+	"about_profiler": {
+		"message": "Profiler"
+	},
+	"about_quit": {
+		"message": "Quit"
+	},
+	"about_quota_internals": {
+		"message": "Quota Internals"
+	},
+	"about_remote_debug": {
+		"message": "Remote Debugging"
+	},
+	"about_restart": {
+		"message": "Restart"
+	},
+	"about_serviceworker_internals": {
+		"message": "ServiceWorker"
+	},
+	"about_settings": {
+		"message": "Settings"
+	},
+	"about_settings_acceptlanguages": {
+		"message": "Preferred languages for webpages"
+	},
+	"about_settings_addressbar": {
+		"message": "Address bar settings"
+	},
+	"about_settings_all": {
+		"message": "Display All settings"
+	},
+	"about_settings_appearance": {
+		"message": "Appearance settings"
+	},
+	"about_settings_autofill": {
+		"message": "Autofill settings"
+	},
+	"about_settings_bookmarks": {
+		"message": "Bookmarks settings"
+	},
+	"about_settings_clearbrowserdata": {
+		"message": "Clear browsing data"
+	},
+	"about_settings_configurecommands": {
+		"message": "Keyboard shortcuts"
+	},
+	"about_settings_content": {
+		"message": "Content settings"
+	},
+	"about_settings_contentexceptions_cookies": {
+		"message": "Cookie and site data exceptions"
+	},
+	"about_settings_contentexceptions_fullscreen": {
+		"message": "Full screen exceptions"
+	},
+	"about_settings_contentexceptions_images": {
+		"message": "Image exceptions"
+	},
+	"about_settings_contentexceptions_javascript": {
+		"message": "JavaScript exceptions"
+	},
+	"about_settings_contentexceptions_keygen": {
+		"message": "Key generation exceptions"
+	},
+	"about_settings_contentexceptions_location": {
+		"message": "Geolocation exceptions"
+	},
+	"about_settings_contentexceptions_media_stream": {
+		"message": "Media exceptions"
+	},
+	"about_settings_contentexceptions_media_stream_camera": {
+		"message": "Camera exceptions"
+	},
+	"about_settings_contentexceptions_media_stream_mic": {
+		"message": "Microphone exceptions"
+	},
+	"about_settings_contentexceptions_midi_sysex": {
+		"message": "MIDI full control"
+	},
+	"about_settings_contentexceptions_mouselock": {
+		"message": "Mouse cursor exceptions"
+	},
+	"about_settings_contentexceptions_multiple_automatic_downloads": {
+		"message": "Automatic Downloads"
+	},
+	"about_settings_contentexceptions_notifications": {
+		"message": "Notifications exceptions"
+	},
+	"about_settings_contentexceptions_plugins": {
+		"message": "Plug-in exceptions"
+	},
+	"about_settings_contentexceptions_popups": {
+		"message": "Pop-up exceptions"
+	},
+	"about_settings_contentexceptions_ppapi_broker": {
+		"message": "Unsandboxed plugin access exceptions"
+	},
+	"about_settings_contentexceptions_usb_devices": {
+		"message": "USB Devices"
+	},
+	"about_settings_contentexceptions_zoomlevels": {
+		"message": "Zoom Levels"
+	},
+	"about_settings_cookies": {
+		"message": "Cookies and site data"
+	},
+	"about_settings_createprofile": {
+		"message": "Add profile"
+	},
+	"about_settings_downloads": {
+		"message": "Downloads settings"
+	},
+	"about_settings_editdictionary": {
+		"message": "Custom spelling dictionary"
+	},
+	"about_settings_fonts": {
+		"message": "Fonts and encoding"
+	},
+	"about_settings_handlers": {
+		"message": "Protocol handlers"
+	},
+	"about_settings_importdata": {
+		"message": "Import bookmarks and settings"
+	},
+	"about_settings_keyboard": {
+		"message": "Keyboard settings"
+	},
+	"about_settings_languages": {
+		"message": "Dictionaries"
+	},
+	"about_settings_manageprofile": {
+		"message": "Edit profile"
+	},
+	"about_settings_mouse": {
+		"message": "Mouse settings"
+	},
+	"about_settings_network": {
+		"message": "Network settings"
+	},
+	"about_settings_panel": {
+		"message": "Panel settings"
+	},
+	"about_settings_passwords": {
+		"message": "Passwords"
+	},
+	"about_settings_privacy": {
+		"message": "Privacy settings"
+	},
+	"about_settings_qc": {
+		"message": "Quick commands settings"
+	},
+	"about_settings_resetprofilesettings": {
+		"message": "Reset settings"
+	},
+	"about_settings_search": {
+		"message": "Search settings"
+	},
+	"about_settings_searchengines": {
+		"message": "Search engines"
+	},
+	"about_settings_start_page": {
+		"message": "Start page settings"
+	},
+	"about_settings_startup": {
+		"message": "Startup pages"
+	},
+	"about_settings_tabs": {
+		"message": "Tabs settings"
+	},
+	"about_settings_webpages": {
+		"message": "Webpages settings"
+	},
+	"about_shorthang": {
+		"message": "Short hang"
+	},
+	"about_signin_internals": {
+		"message": "Signin Internals"
+	},
+	"about_startpage_news": {
+		"message": "News"
+	},
+	"about_suggestions": {
+		"message": "Suggestions"
+	},
+	"about_sync_internals": {
+		"message": "Sync Internals"
+	},
+	"about_syncfs_internals": {
+		"message": "Sync File System Internals"
+	},
+	"about_system": {
+		"message": "About System"
+	},
+	"about_terms": {
+		"message": "Terms of Service"
+	},
+	"about_themes": {
+		"message": "Themes"
+	},
+	"about_thumbnails": {
+		"message": "TopSites Thumbnails"
+	},
+	"about_tracing": {
+		"message": "Tracing"
+	},
+	"about_translate_internals": {
+		"message": "Translate Internals"
+	},
+	"about_user_actions": {
+		"message": "User Actions Debug Page"
+	},
+	"about_user_manager": {
+		"message": "User manager"
+	},
+	"about_version": {
+		"message": "About Version"
+	},
+	"about_view_http_cache": {
+		"message": "View HTTP cache"
+	},
+	"about_webrtc_internals": {
+		"message": "WebRTC Internals"
+	},
+	"about_webrtc_logs": {
+		"message": "WebRTC logs"
+	},
+	"draganddrop_description": {
+		"message": "Drag and drop to rearrange/edit items"
+	},
+	"extension_short_description": {
+		"description": "this will be in the chrome web store: must be 132 characters or less",
+		"message": "Shows a menu with all internal pages. Ex: about:about, about:plugins..."
+	}
+}
