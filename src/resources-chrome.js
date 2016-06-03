@@ -18,6 +18,7 @@ var INTERNAL_PAGES = {
 	"chrome:about/privacy"								: {chrome: "0", opera: "1"},
 	"chrome:about/thanks"								: {chrome: "0", opera: "1"},
 	"chrome:accessibility"								: null,
+	"chrome:account-internals"							: {chrome: "0", opera: "1"},
 	"chrome:activity"									: {chrome: "0", opera: "1"},
 	"chrome:app-list"									: {opera: "0"},
 	"chrome:appcache-internals"							: null,
@@ -62,6 +63,7 @@ var INTERNAL_PAGES = {
 	"chrome:nacl"										: {vivaldi: "0", opera: "0"},
 	"chrome:net-internals"								: {opera: "20"},
 	"chrome:network-errors"								: null,
+	"chrome:news"										: {chrome: "0", opera: "36"},
 	"chrome:newtab"										: null,
 	"chrome:omnibox"									: {opera: "0"},
 	"chrome:password-manager-internals"					: {opera: "0"},
@@ -75,6 +77,7 @@ var INTERNAL_PAGES = {
 	"chrome:serviceworker-internals"					: null,
 	"chrome:settings"									: null,
 	"chrome:settings/acceptlanguages"					: {opera: "19"},
+	"chrome:settings/adblocker"							: {chrome: "0", opera: "37.0.2163.0"},
 	"chrome:settings/addressbar"						: {chrome: "0", vivaldi: "1", vivaldiScheme: true},
 	"chrome:settings/all"								: {chrome: "0", vivaldi: "1", vivaldiScheme: true},
 	"chrome:settings/appearance"						: {chrome: "0", vivaldi: "1", vivaldiScheme: true},
@@ -84,6 +87,7 @@ var INTERNAL_PAGES = {
 	"chrome:settings/configureCommands"					: {chrome: "0"},
 	"chrome:settings/content"							: {opera: "0"},
 	"chrome:settings/contentExceptions#cookies"			: null,
+	"chrome:settings/contentExceptions#detachedVideo"	: {chrome: "0", opera: "37.0.2178.19"},	
 	"chrome:settings/contentExceptions#fullscreen"		: null,
 	"chrome:settings/contentExceptions#images"			: null,
 	"chrome:settings/contentExceptions#javascript"		: null,
@@ -123,9 +127,9 @@ var INTERNAL_PAGES = {
 	"chrome:settings/start-page"						: {chrome: "0", vivaldi: "1", vivaldiScheme: true},
 	"chrome:settings/startup"							: null,
 	"chrome:settings/tabs"								: {chrome: "0", vivaldi: "1", vivaldiScheme: true},
+	"chrome:settings/themes"							: {chrome: "0", vivaldi: "1.3.501.6", vivaldiScheme: true},
 	"chrome:settings/webpages"							: {chrome: "0", vivaldi: "1", vivaldiScheme: true},
 	"chrome:signin-internals"							: {opera: "0"},
-	"chrome:startpage/news"								: {chrome: "0", opera: "1"},
 	"chrome:suggestions"								: {opera: "0"},
 	"chrome:sync-internals"								: null,
 	"chrome:syncfs-internals"							: {opera: "0"},
@@ -141,6 +145,7 @@ var INTERNAL_PAGES = {
 	"chrome:view-http-cache"							: null,
 	"chrome:webrtc-internals"							: null,
 	"chrome:webrtc-logs"								: {opera: "0"},
+	"chrome:welcome"									: {chrome: "0", vivaldi: "1", vivaldiScheme: true},
 	/*"chrome:profile-signin-confirmation"				: {opera: "0"},*/
 	/*"chrome:make-metro"								: {opera: "0"},*/
 	/*"chrome:sync-confirmation"						: {opera: "0"},*/
@@ -163,6 +168,7 @@ var INTERNAL_PAGES = {
 switch (BROWSER_INFO.name.toLowerCase()) {
 	case "opera":
 		PATHS_DEFAULT = [
+			"/chrome%3Anews",
 			"/chrome%3Abookmarks",
 			"/#separator-01",
 			"/chrome%3Adownloads",

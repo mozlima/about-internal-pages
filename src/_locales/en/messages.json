@@ -71,6 +71,9 @@
 	"about_accessibility": {
 		"message": "Accessibility"
 	},
+	"about_account_internals": {
+		"message": "Opera account internals"
+	},
 	"about_activity": {
 		"message": "Tabs"
 	},
@@ -287,6 +290,9 @@
 	"about_settings_acceptlanguages": {
 		"message": "Preferred languages for webpages"
 	},
+	"about_settings_adblocker": {
+		"message": "Block ads - exceptions"
+	},
 	"about_settings_addressbar": {
 		"message": "Address bar settings"
 	},
@@ -313,6 +319,9 @@
 	},
 	"about_settings_contentexceptions_cookies": {
 		"message": "Cookie and site data exceptions"
+	},
+	"about_settings_contentexceptions_detachedvideo": {
+		"message": "Detached video exceptions"
 	},
 	"about_settings_contentexceptions_fullscreen": {
 		"message": "Full screen exceptions"
@@ -431,6 +440,9 @@
 	"about_settings_tabs": {
 		"message": "Tabs settings"
 	},
+	"about_settings_themes": {
+		"message": "Themes settings"
+	},
 	"about_settings_webpages": {
 		"message": "Webpages settings"
 	},
@@ -440,7 +452,7 @@
 	"about_signin_internals": {
 		"message": "Signin Internals"
 	},
-	"about_startpage_news": {
+	"about_news": {
 		"message": "News"
 	},
 	"about_suggestions": {
@@ -487,6 +499,9 @@
 	},
 	"about_webrtc_logs": {
 		"message": "WebRTC logs"
+	},
+	"about_welcome": {
+		"message": "Welcome"
 	},
 	"draganddrop_description": {
 		"message": "Drag and drop to rearrange/edit items"
