@@ -293,6 +293,9 @@
 	"about_settings_adblocker": {
 		"message": "Block ads - exceptions"
 	},
+	"about_settings_adblocker_custom_lists": {
+		"message": "Block ads - custom block lists"
+	},
 	"about_settings_addressbar": {
 		"message": "Address bar settings"
 	},
@@ -316,6 +319,9 @@
 	},
 	"about_settings_content": {
 		"message": "Content settings"
+	},
+	"about_settings_contentexceptions_background_sync": {
+		"message": "Background sync"
 	},
 	"about_settings_contentexceptions_cookies": {
 		"message": "Cookie and site data exceptions"
@@ -445,6 +451,9 @@
 	},
 	"about_settings_webpages": {
 		"message": "Webpages settings"
+	},
+	"about_settings_syncsetup": {
+		"message": "Advanced synchronization settings"
 	},
 	"about_shorthang": {
 		"message": "Short hang"
